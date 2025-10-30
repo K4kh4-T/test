@@ -1,0 +1,62 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/Coin.png",
+                "type": "image",
+                "key": "Coin"
+            },
+            {
+                "url": "assets/Ground.png",
+                "type": "image",
+                "key": "Ground"
+            },
+            {
+                "url": "assets/GroundV2.png",
+                "type": "image",
+                "key": "GroundV2"
+            },
+            {
+                "url": "assets/Key.png",
+                "type": "image",
+                "key": "Key"
+            },
+            {
+                "url": "assets/Platform.png",
+                "type": "image",
+                "key": "Platform"
+            },
+            {
+                "url": "assets/PlatformV2.png",
+                "type": "image",
+                "key": "PlatformV2"
+            },
+            {
+                "url": "assets/Star.png",
+                "type": "image",
+                "key": "Star"
+            },
+            {
+                "url": "assets/world_tileset.png",
+                "frameConfig": {
+                    "frameWidth": 16,
+                    "frameHeight": 16,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "world_tileset"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}
