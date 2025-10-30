@@ -2,42 +2,42 @@
     "section1": {
         "files": [
             {
-                "url": "assets/Coin.png",
+                "url": "https://k4kh4-t.github.io/test/assets/Coin.png",
                 "type": "image",
                 "key": "Coin"
             },
             {
-                "url": "assets/Ground.png",
+                "url": "https://k4kh4-t.github.io/test/assets/Ground.png",
                 "type": "image",
                 "key": "Ground"
             },
             {
-                "url": "assets/GroundV2.png",
+                "url": "https://k4kh4-t.github.io/test/assets/GroundV2.png",
                 "type": "image",
                 "key": "GroundV2"
             },
             {
-                "url": "assets/Key.png",
+                "url": "https://k4kh4-t.github.io/test/assets/Key.png",
                 "type": "image",
                 "key": "Key"
             },
             {
-                "url": "assets/Platform.png",
+                "url": "https://k4kh4-t.github.io/test/assets/Platform.png",
                 "type": "image",
                 "key": "Platform"
             },
             {
-                "url": "assets/PlatformV2.png",
+                "url": "https://k4kh4-t.github.io/test/assets/PlatformV2.png",
                 "type": "image",
                 "key": "PlatformV2"
             },
             {
-                "url": "assets/Star.png",
+                "url": "https://k4kh4-t.github.io/test/assets/Star.png",
                 "type": "image",
                 "key": "Star"
             },
             {
-                "url": "assets/world_tileset.png",
+                "url": "https://k4kh4-t.github.io/test/assets/world_tileset.png",
                 "frameConfig": {
                     "frameWidth": 16,
                     "frameHeight": 16,
