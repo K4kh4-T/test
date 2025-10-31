@@ -2,152 +2,112 @@
     "section1": {
         "files": [
             {
-                "url": "assets/UI/hud_character_0.png",
+                "url": "platformer-assets/ui/hud_character_0.png",
                 "type": "image",
                 "key": "hud_character_0"
             },
             {
-                "url": "assets/UI/hud_character_1.png",
+                "url": "platformer-assets/ui/hud_character_1.png",
                 "type": "image",
                 "key": "hud_character_1"
             },
             {
-                "url": "assets/UI/hud_character_2.png",
+                "url": "platformer-assets/ui/hud_character_2.png",
                 "type": "image",
                 "key": "hud_character_2"
             },
             {
-                "url": "assets/UI/hud_character_3.png",
+                "url": "platformer-assets/ui/hud_character_3.png",
                 "type": "image",
                 "key": "hud_character_3"
             },
             {
-                "url": "assets/UI/hud_character_4.png",
+                "url": "platformer-assets/ui/hud_character_4.png",
                 "type": "image",
                 "key": "hud_character_4"
             },
             {
-                "url": "assets/UI/hud_character_5.png",
+                "url": "platformer-assets/ui/hud_character_5.png",
                 "type": "image",
                 "key": "hud_character_5"
             },
             {
-                "url": "assets/UI/hud_character_6.png",
+                "url": "platformer-assets/ui/hud_character_6.png",
                 "type": "image",
                 "key": "hud_character_6"
             },
             {
-                "url": "assets/UI/hud_character_7.png",
+                "url": "platformer-assets/ui/hud_character_7.png",
                 "type": "image",
                 "key": "hud_character_7"
             },
             {
-                "url": "assets/UI/hud_character_8.png",
+                "url": "platformer-assets/ui/hud_character_8.png",
                 "type": "image",
                 "key": "hud_character_8"
             },
             {
-                "url": "assets/UI/hud_character_9.png",
+                "url": "platformer-assets/ui/hud_character_9.png",
                 "type": "image",
                 "key": "hud_character_9"
             },
             {
-                "url": "assets/UI/hud_character_multiply.png",
+                "url": "platformer-assets/ui/hud_character_multiply.png",
                 "type": "image",
                 "key": "hud_character_multiply"
             },
             {
-                "url": "assets/UI/hud_character_percent.png",
+                "url": "platformer-assets/ui/hud_character_percent.png",
                 "type": "image",
                 "key": "hud_character_percent"
             },
             {
-                "url": "assets/UI/hud_coin.png",
+                "url": "platformer-assets/ui/hud_coin.png",
                 "type": "image",
                 "key": "hud_coin"
             },
             {
-                "url": "assets/UI/hud_heart.png",
+                "url": "platformer-assets/ui/hud_heart.png",
                 "type": "image",
                 "key": "hud_heart"
             },
             {
-                "url": "assets/UI/hud_heart_empty.png",
+                "url": "platformer-assets/ui/hud_heart_empty.png",
                 "type": "image",
                 "key": "hud_heart_empty"
             },
             {
-                "url": "assets/UI/hud_heart_half.png",
+                "url": "platformer-assets/ui/hud_heart_half.png",
                 "type": "image",
                 "key": "hud_heart_half"
             },
             {
-                "url": "assets/UI/hud_key_blue.png",
+                "url": "platformer-assets/ui/hud_key_blue.png",
                 "type": "image",
                 "key": "hud_key_blue"
             },
             {
-                "url": "assets/UI/hud_key_green.png",
+                "url": "platformer-assets/ui/hud_key_green.png",
                 "type": "image",
                 "key": "hud_key_green"
             },
             {
-                "url": "assets/UI/hud_key_red.png",
+                "url": "platformer-assets/ui/hud_key_red.png",
                 "type": "image",
                 "key": "hud_key_red"
             },
             {
-                "url": "assets/UI/hud_key_yellow.png",
+                "url": "platformer-assets/ui/hud_key_yellow.png",
                 "type": "image",
                 "key": "hud_key_yellow"
             },
             {
-                "url": "assets/UI/hud_player_beige.png",
-                "type": "image",
-                "key": "hud_player_beige"
-            },
-            {
-                "url": "assets/UI/hud_player_green.png",
-                "type": "image",
-                "key": "hud_player_green"
-            },
-            {
-                "url": "assets/UI/hud_player_helmet_beige.png",
-                "type": "image",
-                "key": "hud_player_helmet_beige"
-            },
-            {
-                "url": "assets/UI/hud_player_helmet_green.png",
-                "type": "image",
-                "key": "hud_player_helmet_green"
-            },
-            {
-                "url": "assets/UI/hud_player_helmet_pink.png",
-                "type": "image",
-                "key": "hud_player_helmet_pink"
-            },
-            {
-                "url": "assets/UI/hud_player_helmet_purple.png",
-                "type": "image",
-                "key": "hud_player_helmet_purple"
-            },
-            {
-                "url": "assets/UI/hud_player_helmet_yellow.png",
+                "url": "platformer-assets/ui/hud_player_helmet_yellow.png",
                 "type": "image",
                 "key": "hud_player_helmet_yellow"
             },
             {
-                "url": "assets/UI/hud_player_pink.png",
-                "type": "image",
-                "key": "hud_player_pink"
-            },
-            {
-                "url": "assets/UI/hud_player_purple.png",
-                "type": "image",
-                "key": "hud_player_purple"
-            },
-            {
-                "url": "assets/UI/hud_player_yellow.png",
+                "url": "platformer-assets/ui/hud_player_yellow.png",
                 "type": "image",
                 "key": "hud_player_yellow"
             }
