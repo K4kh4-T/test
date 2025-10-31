@@ -2,112 +2,112 @@
     "section1": {
         "files": [
             {
-                "url": "platformer-assets/ui/hud_character_0.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_character_0.png",
                 "type": "image",
                 "key": "hud_character_0"
             },
             {
-                "url": "platformer-assets/ui/hud_character_1.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_character_1.png",
                 "type": "image",
                 "key": "hud_character_1"
             },
             {
-                "url": "platformer-assets/ui/hud_character_2.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_character_2.png",
                 "type": "image",
                 "key": "hud_character_2"
             },
             {
-                "url": "platformer-assets/ui/hud_character_3.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_character_3.png",
                 "type": "image",
                 "key": "hud_character_3"
             },
             {
-                "url": "platformer-assets/ui/hud_character_4.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_character_4.png",
                 "type": "image",
                 "key": "hud_character_4"
             },
             {
-                "url": "platformer-assets/ui/hud_character_5.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_character_5.png",
                 "type": "image",
                 "key": "hud_character_5"
             },
             {
-                "url": "platformer-assets/ui/hud_character_6.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_character_6.png",
                 "type": "image",
                 "key": "hud_character_6"
             },
             {
-                "url": "platformer-assets/ui/hud_character_7.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_character_7.png",
                 "type": "image",
                 "key": "hud_character_7"
             },
             {
-                "url": "platformer-assets/ui/hud_character_8.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_character_8.png",
                 "type": "image",
                 "key": "hud_character_8"
             },
             {
-                "url": "platformer-assets/ui/hud_character_9.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_character_9.png",
                 "type": "image",
                 "key": "hud_character_9"
             },
             {
-                "url": "platformer-assets/ui/hud_character_multiply.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_character_multiply.png",
                 "type": "image",
                 "key": "hud_character_multiply"
             },
             {
-                "url": "platformer-assets/ui/hud_character_percent.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_character_percent.png",
                 "type": "image",
                 "key": "hud_character_percent"
             },
             {
-                "url": "platformer-assets/ui/hud_coin.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_coin.png",
                 "type": "image",
                 "key": "hud_coin"
             },
             {
-                "url": "platformer-assets/ui/hud_heart.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_heart.png",
                 "type": "image",
                 "key": "hud_heart"
             },
             {
-                "url": "platformer-assets/ui/hud_heart_empty.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_heart_empty.png",
                 "type": "image",
                 "key": "hud_heart_empty"
             },
             {
-                "url": "platformer-assets/ui/hud_heart_half.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_heart_half.png",
                 "type": "image",
                 "key": "hud_heart_half"
             },
             {
-                "url": "platformer-assets/ui/hud_key_blue.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_key_blue.png",
                 "type": "image",
                 "key": "hud_key_blue"
             },
             {
-                "url": "platformer-assets/ui/hud_key_green.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_key_green.png",
                 "type": "image",
                 "key": "hud_key_green"
             },
             {
-                "url": "platformer-assets/ui/hud_key_red.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_key_red.png",
                 "type": "image",
                 "key": "hud_key_red"
             },
             {
-                "url": "platformer-assets/ui/hud_key_yellow.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_key_yellow.png",
                 "type": "image",
                 "key": "hud_key_yellow"
             },
             {
-                "url": "platformer-assets/ui/hud_player_helmet_yellow.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_player_helmet_yellow.png",
                 "type": "image",
                 "key": "hud_player_helmet_yellow"
             },
             {
-                "url": "platformer-assets/ui/hud_player_yellow.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/ui/hud_player_yellow.png",
                 "type": "image",
                 "key": "hud_player_yellow"
             }

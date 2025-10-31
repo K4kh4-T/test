@@ -2,47 +2,47 @@
     "section1": {
         "files": [
             {
-                "url": "platformer-assets/character_yellow/character_yellow_climb_0.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/character_yellow/character_yellow_climb_0.png",
                 "type": "image",
                 "key": "character_yellow_climb_0"
             },
             {
-                "url": "platformer-assets/character_yellow/character_yellow_climb_1.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/character_yellow/character_yellow_climb_1.png",
                 "type": "image",
                 "key": "character_yellow_climb_1"
             },
             {
-                "url": "platformer-assets/character_yellow/character_yellow_duck.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/character_yellow/character_yellow_duck.png",
                 "type": "image",
                 "key": "character_yellow_duck"
             },
             {
-                "url": "platformer-assets/character_yellow/character_yellow_front.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/character_yellow/character_yellow_front.png",
                 "type": "image",
                 "key": "character_yellow_front"
             },
             {
-                "url": "platformer-assets/character_yellow/character_yellow_hit.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/character_yellow/character_yellow_hit.png",
                 "type": "image",
                 "key": "character_yellow_hit"
             },
             {
-                "url": "platformer-assets/character_yellow/character_yellow_idle.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/character_yellow/character_yellow_idle.png",
                 "type": "image",
                 "key": "character_yellow_idle"
             },
             {
-                "url": "platformer-assets/character_yellow/character_yellow_jump.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/character_yellow/character_yellow_jump.png",
                 "type": "image",
                 "key": "character_yellow_jump"
             },
             {
-                "url": "platformer-assets/character_yellow/character_yellow_walk_0.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/character_yellow/character_yellow_walk_0.png",
                 "type": "image",
                 "key": "character_yellow_walk_0"
             },
             {
-                "url": "platformer-assets/character_yellow/character_yellow_walk_1.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/character_yellow/character_yellow_walk_1.png",
                 "type": "image",
                 "key": "character_yellow_walk_1"
             }

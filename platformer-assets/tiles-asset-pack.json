@@ -2,577 +2,577 @@
     "section1": {
         "files": [
             {
-                "url": "platformer-assets/tiles/block_blue.png",
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/tiles/block_blue.png",
                 "type": "image",
                 "key": "block_blue"
             },
             {
-                "url": "platformer-assets/tiles/block_coin.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_coin.png",
                 "type": "image",
                 "key": "block_coin"
             },
             {
-                "url": "platformer-assets/tiles/block_coin_active.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_coin_active.png",
                 "type": "image",
                 "key": "block_coin_active"
             },
             {
-                "url": "platformer-assets/tiles/block_empty.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_empty.png",
                 "type": "image",
                 "key": "block_empty"
             },
             {
-                "url": "platformer-assets/tiles/block_empty_warning.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_empty_warning.png",
                 "type": "image",
                 "key": "block_empty_warning"
             },
             {
-                "url": "platformer-assets/tiles/block_exclamation.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_exclamation.png",
                 "type": "image",
                 "key": "block_exclamation"
             },
             {
-                "url": "platformer-assets/tiles/block_exclamation_active.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_exclamation_active.png",
                 "type": "image",
                 "key": "block_exclamation_active"
             },
             {
-                "url": "platformer-assets/tiles/block_green.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_green.png",
                 "type": "image",
                 "key": "block_green"
             },
             {
-                "url": "platformer-assets/tiles/block_plank.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_plank.png",
                 "type": "image",
                 "key": "block_plank"
             },
             {
-                "url": "platformer-assets/tiles/block_planks.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_planks.png",
                 "type": "image",
                 "key": "block_planks"
             },
             {
-                "url": "platformer-assets/tiles/block_red.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_red.png",
                 "type": "image",
                 "key": "block_red"
             },
             {
-                "url": "platformer-assets/tiles/block_spikes.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_spikes.png",
                 "type": "image",
                 "key": "block_spikes"
             },
             {
-                "url": "platformer-assets/tiles/block_strong_coin.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_strong_coin.png",
                 "type": "image",
                 "key": "block_strong_coin"
             },
             {
-                "url": "platformer-assets/tiles/block_strong_coin_active.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_strong_coin_active.png",
                 "type": "image",
                 "key": "block_strong_coin_active"
             },
             {
-                "url": "platformer-assets/tiles/block_strong_danger.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_strong_danger.png",
                 "type": "image",
                 "key": "block_strong_danger"
             },
             {
-                "url": "platformer-assets/tiles/block_strong_danger_active.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_strong_danger_active.png",
                 "type": "image",
                 "key": "block_strong_danger_active"
             },
             {
-                "url": "platformer-assets/tiles/block_strong_empty.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_strong_empty.png",
                 "type": "image",
                 "key": "block_strong_empty"
             },
             {
-                "url": "platformer-assets/tiles/block_strong_empty_active.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_strong_empty_active.png",
                 "type": "image",
                 "key": "block_strong_empty_active"
             },
             {
-                "url": "platformer-assets/tiles/block_strong_exclamation.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_strong_exclamation.png",
                 "type": "image",
                 "key": "block_strong_exclamation"
             },
             {
-                "url": "platformer-assets/tiles/block_strong_exclamation_active.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_strong_exclamation_active.png",
                 "type": "image",
                 "key": "block_strong_exclamation_active"
             },
             {
-                "url": "platformer-assets/tiles/block_yellow.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/block_yellow.png",
                 "type": "image",
                 "key": "block_yellow"
             },
             {
-                "url": "platformer-assets/tiles/bomb.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/bomb.png",
                 "type": "image",
                 "key": "bomb"
             },
             {
-                "url": "platformer-assets/tiles/bomb_active.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/bomb_active.png",
                 "type": "image",
                 "key": "bomb_active"
             },
             {
-                "url": "platformer-assets/tiles/brick_brown.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/brick_brown.png",
                 "type": "image",
                 "key": "brick_brown"
             },
             {
-                "url": "platformer-assets/tiles/brick_brown_diagonal.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/brick_brown_diagonal.png",
                 "type": "image",
                 "key": "brick_brown_diagonal"
             },
             {
-                "url": "platformer-assets/tiles/brick_grey.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/brick_grey.png",
                 "type": "image",
                 "key": "brick_grey"
             },
             {
-                "url": "platformer-assets/tiles/brick_grey_diagonal.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/brick_grey_diagonal.png",
                 "type": "image",
                 "key": "brick_grey_diagonal"
             },
             {
-                "url": "platformer-assets/tiles/bricks_brown.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/bricks_brown.png",
                 "type": "image",
                 "key": "bricks_brown"
             },
             {
-                "url": "platformer-assets/tiles/bricks_grey.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/bricks_grey.png",
                 "type": "image",
                 "key": "bricks_grey"
             },
             {
-                "url": "platformer-assets/tiles/bridge.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/bridge.png",
                 "type": "image",
                 "key": "bridge"
             },
             {
-                "url": "platformer-assets/tiles/bridge_logs.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/bridge_logs.png",
                 "type": "image",
                 "key": "bridge_logs"
             },
             {
-                "url": "platformer-assets/tiles/bush.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/bush.png",
                 "type": "image",
                 "key": "bush"
             },
             {
-                "url": "platformer-assets/tiles/cactus.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/cactus.png",
                 "type": "image",
                 "key": "cactus"
             },
             {
-                "url": "platformer-assets/tiles/chain.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/chain.png",
                 "type": "image",
                 "key": "chain"
             },
             {
-                "url": "platformer-assets/tiles/coin_bronze.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/coin_bronze.png",
                 "type": "image",
                 "key": "coin_bronze"
             },
             {
-                "url": "platformer-assets/tiles/coin_bronze_side.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/coin_bronze_side.png",
                 "type": "image",
                 "key": "coin_bronze_side"
             },
             {
-                "url": "platformer-assets/tiles/coin_gold.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/coin_gold.png",
                 "type": "image",
                 "key": "coin_gold"
             },
             {
-                "url": "platformer-assets/tiles/coin_gold_side.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/coin_gold_side.png",
                 "type": "image",
                 "key": "coin_gold_side"
             },
             {
-                "url": "platformer-assets/tiles/coin_silver.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/coin_silver.png",
                 "type": "image",
                 "key": "coin_silver"
             },
             {
-                "url": "platformer-assets/tiles/coin_silver_side.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/coin_silver_side.png",
                 "type": "image",
                 "key": "coin_silver_side"
             },
             {
-                "url": "platformer-assets/tiles/conveyor.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/conveyor.png",
                 "type": "image",
                 "key": "conveyor"
             },
             {
-                "url": "platformer-assets/tiles/door_closed.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/door_closed.png",
                 "type": "image",
                 "key": "door_closed"
             },
             {
-                "url": "platformer-assets/tiles/door_closed_top.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/door_closed_top.png",
                 "type": "image",
                 "key": "door_closed_top"
             },
             {
-                "url": "platformer-assets/tiles/door_open.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/door_open.png",
                 "type": "image",
                 "key": "door_open"
             },
             {
-                "url": "platformer-assets/tiles/door_open_top.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/door_open_top.png",
                 "type": "image",
                 "key": "door_open_top"
             },
             {
-                "url": "platformer-assets/tiles/fence.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/fence.png",
                 "type": "image",
                 "key": "fence"
             },
             {
-                "url": "platformer-assets/tiles/fence_broken.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/fence_broken.png",
                 "type": "image",
                 "key": "fence_broken"
             },
             {
-                "url": "platformer-assets/tiles/fireball.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/fireball.png",
                 "type": "image",
                 "key": "fireball"
             },
             {
-                "url": "platformer-assets/tiles/flag_blue_a.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/flag_blue_a.png",
                 "type": "image",
                 "key": "flag_blue_a"
             },
             {
-                "url": "platformer-assets/tiles/flag_blue_b.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/flag_blue_b.png",
                 "type": "image",
                 "key": "flag_blue_b"
             },
             {
-                "url": "platformer-assets/tiles/flag_green_a.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/flag_green_a.png",
                 "type": "image",
                 "key": "flag_green_a"
             },
             {
-                "url": "platformer-assets/tiles/flag_green_b.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/flag_green_b.png",
                 "type": "image",
                 "key": "flag_green_b"
             },
             {
-                "url": "platformer-assets/tiles/flag_off.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/flag_off.png",
                 "type": "image",
                 "key": "flag_off"
             },
             {
-                "url": "platformer-assets/tiles/flag_red_a.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/flag_red_a.png",
                 "type": "image",
                 "key": "flag_red_a"
             },
             {
-                "url": "platformer-assets/tiles/flag_red_b.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/flag_red_b.png",
                 "type": "image",
                 "key": "flag_red_b"
             },
             {
-                "url": "platformer-assets/tiles/flag_yellow_a.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/flag_yellow_a.png",
                 "type": "image",
                 "key": "flag_yellow_a"
             },
             {
-                "url": "platformer-assets/tiles/flag_yellow_b.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/flag_yellow_b.png",
                 "type": "image",
                 "key": "flag_yellow_b"
             },
             {
-                "url": "platformer-assets/tiles/gem_blue.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/gem_blue.png",
                 "type": "image",
                 "key": "gem_blue"
             },
             {
-                "url": "platformer-assets/tiles/gem_green.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/gem_green.png",
                 "type": "image",
                 "key": "gem_green"
             },
             {
-                "url": "platformer-assets/tiles/gem_red.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/gem_red.png",
                 "type": "image",
                 "key": "gem_red"
             },
             {
-                "url": "platformer-assets/tiles/gem_yellow.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/gem_yellow.png",
                 "type": "image",
                 "key": "gem_yellow"
             },
             {
-                "url": "platformer-assets/tiles/grass.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/grass.png",
                 "type": "image",
                 "key": "grass"
             },
             {
-                "url": "platformer-assets/tiles/grass_purple.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/grass_purple.png",
                 "type": "image",
                 "key": "grass_purple"
             },
             {
-                "url": "platformer-assets/tiles/heart.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/heart.png",
                 "type": "image",
                 "key": "heart"
             },
             {
-                "url": "platformer-assets/tiles/hill.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/hill.png",
                 "type": "image",
                 "key": "hill"
             },
             {
-                "url": "platformer-assets/tiles/hill_top.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/hill_top.png",
                 "type": "image",
                 "key": "hill_top"
             },
             {
-                "url": "platformer-assets/tiles/hill_top_smile.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/hill_top_smile.png",
                 "type": "image",
                 "key": "hill_top_smile"
             },
             {
-                "url": "platformer-assets/tiles/key_blue.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/key_blue.png",
                 "type": "image",
                 "key": "key_blue"
             },
             {
-                "url": "platformer-assets/tiles/key_green.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/key_green.png",
                 "type": "image",
                 "key": "key_green"
             },
             {
-                "url": "platformer-assets/tiles/key_red.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/key_red.png",
                 "type": "image",
                 "key": "key_red"
             },
             {
-                "url": "platformer-assets/tiles/key_yellow.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/key_yellow.png",
                 "type": "image",
                 "key": "key_yellow"
             },
             {
-                "url": "platformer-assets/tiles/ladder_bottom.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/ladder_bottom.png",
                 "type": "image",
                 "key": "ladder_bottom"
             },
             {
-                "url": "platformer-assets/tiles/ladder_middle.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/ladder_middle.png",
                 "type": "image",
                 "key": "ladder_middle"
             },
             {
-                "url": "platformer-assets/tiles/ladder_top.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/ladder_top.png",
                 "type": "image",
                 "key": "ladder_top"
             },
             {
-                "url": "platformer-assets/tiles/lava.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/lava.png",
                 "type": "image",
                 "key": "lava"
             },
             {
-                "url": "platformer-assets/tiles/lava_top.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/lava_top.png",
                 "type": "image",
                 "key": "lava_top"
             },
             {
-                "url": "platformer-assets/tiles/lava_top_low.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/lava_top_low.png",
                 "type": "image",
                 "key": "lava_top_low"
             },
             {
-                "url": "platformer-assets/tiles/lever.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/lever.png",
                 "type": "image",
                 "key": "lever"
             },
             {
-                "url": "platformer-assets/tiles/lever_left.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/lever_left.png",
                 "type": "image",
                 "key": "lever_left"
             },
             {
-                "url": "platformer-assets/tiles/lever_right.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/lever_right.png",
                 "type": "image",
                 "key": "lever_right"
             },
             {
-                "url": "platformer-assets/tiles/lock_blue.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/lock_blue.png",
                 "type": "image",
                 "key": "lock_blue"
             },
             {
-                "url": "platformer-assets/tiles/lock_green.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/lock_green.png",
                 "type": "image",
                 "key": "lock_green"
             },
             {
-                "url": "platformer-assets/tiles/lock_red.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/lock_red.png",
                 "type": "image",
                 "key": "lock_red"
             },
             {
-                "url": "platformer-assets/tiles/lock_yellow.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/lock_yellow.png",
                 "type": "image",
                 "key": "lock_yellow"
             },
             {
-                "url": "platformer-assets/tiles/mushroom_brown.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/mushroom_brown.png",
                 "type": "image",
                 "key": "mushroom_brown"
             },
             {
-                "url": "platformer-assets/tiles/mushroom_red.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/mushroom_red.png",
                 "type": "image",
                 "key": "mushroom_red"
             },
             {
-                "url": "platformer-assets/tiles/ramp.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/ramp.png",
                 "type": "image",
                 "key": "ramp"
             },
             {
-                "url": "platformer-assets/tiles/rock.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/rock.png",
                 "type": "image",
                 "key": "rock"
             },
             {
-                "url": "platformer-assets/tiles/rop_attached.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/rop_attached.png",
                 "type": "image",
                 "key": "rop_attached"
             },
             {
-                "url": "platformer-assets/tiles/rope.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/rope.png",
                 "type": "image",
                 "key": "rope"
             },
             {
-                "url": "platformer-assets/tiles/saw.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/saw.png",
                 "type": "image",
                 "key": "saw"
             },
             {
-                "url": "platformer-assets/tiles/sign.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/sign.png",
                 "type": "image",
                 "key": "sign"
             },
             {
-                "url": "platformer-assets/tiles/sign_exit.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/sign_exit.png",
                 "type": "image",
                 "key": "sign_exit"
             },
             {
-                "url": "platformer-assets/tiles/sign_left.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/sign_left.png",
                 "type": "image",
                 "key": "sign_left"
             },
             {
-                "url": "platformer-assets/tiles/sign_right.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/sign_right.png",
                 "type": "image",
                 "key": "sign_right"
             },
             {
-                "url": "platformer-assets/tiles/snow.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/snow.png",
                 "type": "image",
                 "key": "snow"
             },
             {
-                "url": "platformer-assets/tiles/spikes.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/spikes.png",
                 "type": "image",
                 "key": "spikes"
             },
             {
-                "url": "platformer-assets/tiles/spring.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/spring.png",
                 "type": "image",
                 "key": "spring"
             },
             {
-                "url": "platformer-assets/tiles/spring_out.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/spring_out.png",
                 "type": "image",
                 "key": "spring_out"
             },
             {
-                "url": "platformer-assets/tiles/star.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/star.png",
                 "type": "image",
                 "key": "star"
             },
             {
-                "url": "platformer-assets/tiles/switch_blue.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/switch_blue.png",
                 "type": "image",
                 "key": "switch_blue"
             },
             {
-                "url": "platformer-assets/tiles/switch_blue_pressed.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/switch_blue_pressed.png",
                 "type": "image",
                 "key": "switch_blue_pressed"
             },
             {
-                "url": "platformer-assets/tiles/switch_green.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/switch_green.png",
                 "type": "image",
                 "key": "switch_green"
             },
             {
-                "url": "platformer-assets/tiles/switch_green_pressed.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/switch_green_pressed.png",
                 "type": "image",
                 "key": "switch_green_pressed"
             },
             {
-                "url": "platformer-assets/tiles/switch_red.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/switch_red.png",
                 "type": "image",
                 "key": "switch_red"
             },
             {
-                "url": "platformer-assets/tiles/switch_red_pressed.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/switch_red_pressed.png",
                 "type": "image",
                 "key": "switch_red_pressed"
             },
             {
-                "url": "platformer-assets/tiles/switch_yellow.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/switch_yellow.png",
                 "type": "image",
                 "key": "switch_yellow"
             },
             {
-                "url": "platformer-assets/tiles/torch_off.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/torch_off.png",
                 "type": "image",
                 "key": "torch_off"
             },
             {
-                "url": "platformer-assets/tiles/torch_on_0png.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/torch_on_0png.png",
                 "type": "image",
                 "key": "torch_on_0png"
             },
             {
-                "url": "platformer-assets/tiles/torch_on_1.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/torch_on_1.png",
                 "type": "image",
                 "key": "torch_on_1"
             },
             {
-                "url": "platformer-assets/tiles/water.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/water.png",
                 "type": "image",
                 "key": "water"
             },
             {
-                "url": "platformer-assets/tiles/water_top.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/water_top.png",
                 "type": "image",
                 "key": "water_top"
             },
             {
-                "url": "platformer-assets/tiles/water_top_low.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/water_top_low.png",
                 "type": "image",
                 "key": "water_top_low"
             },
             {
-                "url": "platformer-assets/tiles/weight.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/weight.png",
                 "type": "image",
                 "key": "weight"
             },
             {
-                "url": "platformer-assets/tiles/window.png",
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/tiles/window.png",
                 "type": "image",
                 "key": "window"
             }
