@@ -1,0 +1,589 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/tiles/block_blue.png",
+                "type": "image",
+                "key": "block_blue"
+            },
+            {
+                "url": "assets/tiles/block_coin.png",
+                "type": "image",
+                "key": "block_coin"
+            },
+            {
+                "url": "assets/tiles/block_coin_active.png",
+                "type": "image",
+                "key": "block_coin_active"
+            },
+            {
+                "url": "assets/tiles/block_empty.png",
+                "type": "image",
+                "key": "block_empty"
+            },
+            {
+                "url": "assets/tiles/block_empty_warning.png",
+                "type": "image",
+                "key": "block_empty_warning"
+            },
+            {
+                "url": "assets/tiles/block_exclamation.png",
+                "type": "image",
+                "key": "block_exclamation"
+            },
+            {
+                "url": "assets/tiles/block_exclamation_active.png",
+                "type": "image",
+                "key": "block_exclamation_active"
+            },
+            {
+                "url": "assets/tiles/block_green.png",
+                "type": "image",
+                "key": "block_green"
+            },
+            {
+                "url": "assets/tiles/block_plank.png",
+                "type": "image",
+                "key": "block_plank"
+            },
+            {
+                "url": "assets/tiles/block_planks.png",
+                "type": "image",
+                "key": "block_planks"
+            },
+            {
+                "url": "assets/tiles/block_red.png",
+                "type": "image",
+                "key": "block_red"
+            },
+            {
+                "url": "assets/tiles/block_spikes.png",
+                "type": "image",
+                "key": "block_spikes"
+            },
+            {
+                "url": "assets/tiles/block_strong_coin.png",
+                "type": "image",
+                "key": "block_strong_coin"
+            },
+            {
+                "url": "assets/tiles/block_strong_coin_active.png",
+                "type": "image",
+                "key": "block_strong_coin_active"
+            },
+            {
+                "url": "assets/tiles/block_strong_danger.png",
+                "type": "image",
+                "key": "block_strong_danger"
+            },
+            {
+                "url": "assets/tiles/block_strong_danger_active.png",
+                "type": "image",
+                "key": "block_strong_danger_active"
+            },
+            {
+                "url": "assets/tiles/block_strong_empty.png",
+                "type": "image",
+                "key": "block_strong_empty"
+            },
+            {
+                "url": "assets/tiles/block_strong_empty_active.png",
+                "type": "image",
+                "key": "block_strong_empty_active"
+            },
+            {
+                "url": "assets/tiles/block_strong_exclamation.png",
+                "type": "image",
+                "key": "block_strong_exclamation"
+            },
+            {
+                "url": "assets/tiles/block_strong_exclamation_active.png",
+                "type": "image",
+                "key": "block_strong_exclamation_active"
+            },
+            {
+                "url": "assets/tiles/block_yellow.png",
+                "type": "image",
+                "key": "block_yellow"
+            },
+            {
+                "url": "assets/tiles/bomb.png",
+                "type": "image",
+                "key": "bomb"
+            },
+            {
+                "url": "assets/tiles/bomb_active.png",
+                "type": "image",
+                "key": "bomb_active"
+            },
+            {
+                "url": "assets/tiles/brick_brown.png",
+                "type": "image",
+                "key": "brick_brown"
+            },
+            {
+                "url": "assets/tiles/brick_brown_diagonal.png",
+                "type": "image",
+                "key": "brick_brown_diagonal"
+            },
+            {
+                "url": "assets/tiles/brick_grey.png",
+                "type": "image",
+                "key": "brick_grey"
+            },
+            {
+                "url": "assets/tiles/brick_grey_diagonal.png",
+                "type": "image",
+                "key": "brick_grey_diagonal"
+            },
+            {
+                "url": "assets/tiles/bricks_brown.png",
+                "type": "image",
+                "key": "bricks_brown"
+            },
+            {
+                "url": "assets/tiles/bricks_grey.png",
+                "type": "image",
+                "key": "bricks_grey"
+            },
+            {
+                "url": "assets/tiles/bridge.png",
+                "type": "image",
+                "key": "bridge"
+            },
+            {
+                "url": "assets/tiles/bridge_logs.png",
+                "type": "image",
+                "key": "bridge_logs"
+            },
+            {
+                "url": "assets/tiles/bush.png",
+                "type": "image",
+                "key": "bush"
+            },
+            {
+                "url": "assets/tiles/cactus.png",
+                "type": "image",
+                "key": "cactus"
+            },
+            {
+                "url": "assets/tiles/chain.png",
+                "type": "image",
+                "key": "chain"
+            },
+            {
+                "url": "assets/tiles/coin_bronze.png",
+                "type": "image",
+                "key": "coin_bronze"
+            },
+            {
+                "url": "assets/tiles/coin_bronze_side.png",
+                "type": "image",
+                "key": "coin_bronze_side"
+            },
+            {
+                "url": "assets/tiles/coin_gold.png",
+                "type": "image",
+                "key": "coin_gold"
+            },
+            {
+                "url": "assets/tiles/coin_gold_side.png",
+                "type": "image",
+                "key": "coin_gold_side"
+            },
+            {
+                "url": "assets/tiles/coin_silver.png",
+                "type": "image",
+                "key": "coin_silver"
+            },
+            {
+                "url": "assets/tiles/coin_silver_side.png",
+                "type": "image",
+                "key": "coin_silver_side"
+            },
+            {
+                "url": "assets/tiles/conveyor.png",
+                "type": "image",
+                "key": "conveyor"
+            },
+            {
+                "url": "assets/tiles/door_closed.png",
+                "type": "image",
+                "key": "door_closed"
+            },
+            {
+                "url": "assets/tiles/door_closed_top.png",
+                "type": "image",
+                "key": "door_closed_top"
+            },
+            {
+                "url": "assets/tiles/door_open.png",
+                "type": "image",
+                "key": "door_open"
+            },
+            {
+                "url": "assets/tiles/door_open_top.png",
+                "type": "image",
+                "key": "door_open_top"
+            },
+            {
+                "url": "assets/tiles/fence.png",
+                "type": "image",
+                "key": "fence"
+            },
+            {
+                "url": "assets/tiles/fence_broken.png",
+                "type": "image",
+                "key": "fence_broken"
+            },
+            {
+                "url": "assets/tiles/fireball.png",
+                "type": "image",
+                "key": "fireball"
+            },
+            {
+                "url": "assets/tiles/flag_blue_a.png",
+                "type": "image",
+                "key": "flag_blue_a"
+            },
+            {
+                "url": "assets/tiles/flag_blue_b.png",
+                "type": "image",
+                "key": "flag_blue_b"
+            },
+            {
+                "url": "assets/tiles/flag_green_a.png",
+                "type": "image",
+                "key": "flag_green_a"
+            },
+            {
+                "url": "assets/tiles/flag_green_b.png",
+                "type": "image",
+                "key": "flag_green_b"
+            },
+            {
+                "url": "assets/tiles/flag_off.png",
+                "type": "image",
+                "key": "flag_off"
+            },
+            {
+                "url": "assets/tiles/flag_red_a.png",
+                "type": "image",
+                "key": "flag_red_a"
+            },
+            {
+                "url": "assets/tiles/flag_red_b.png",
+                "type": "image",
+                "key": "flag_red_b"
+            },
+            {
+                "url": "assets/tiles/flag_yellow_a.png",
+                "type": "image",
+                "key": "flag_yellow_a"
+            },
+            {
+                "url": "assets/tiles/flag_yellow_b.png",
+                "type": "image",
+                "key": "flag_yellow_b"
+            },
+            {
+                "url": "assets/tiles/gem_blue.png",
+                "type": "image",
+                "key": "gem_blue"
+            },
+            {
+                "url": "assets/tiles/gem_green.png",
+                "type": "image",
+                "key": "gem_green"
+            },
+            {
+                "url": "assets/tiles/gem_red.png",
+                "type": "image",
+                "key": "gem_red"
+            },
+            {
+                "url": "assets/tiles/gem_yellow.png",
+                "type": "image",
+                "key": "gem_yellow"
+            },
+            {
+                "url": "assets/tiles/grass.png",
+                "type": "image",
+                "key": "grass"
+            },
+            {
+                "url": "assets/tiles/grass_purple.png",
+                "type": "image",
+                "key": "grass_purple"
+            },
+            {
+                "url": "assets/tiles/heart.png",
+                "type": "image",
+                "key": "heart"
+            },
+            {
+                "url": "assets/tiles/hill.png",
+                "type": "image",
+                "key": "hill"
+            },
+            {
+                "url": "assets/tiles/hill_top.png",
+                "type": "image",
+                "key": "hill_top"
+            },
+            {
+                "url": "assets/tiles/hill_top_smile.png",
+                "type": "image",
+                "key": "hill_top_smile"
+            },
+            {
+                "url": "assets/tiles/key_blue.png",
+                "type": "image",
+                "key": "key_blue"
+            },
+            {
+                "url": "assets/tiles/key_green.png",
+                "type": "image",
+                "key": "key_green"
+            },
+            {
+                "url": "assets/tiles/key_red.png",
+                "type": "image",
+                "key": "key_red"
+            },
+            {
+                "url": "assets/tiles/key_yellow.png",
+                "type": "image",
+                "key": "key_yellow"
+            },
+            {
+                "url": "assets/tiles/ladder_bottom.png",
+                "type": "image",
+                "key": "ladder_bottom"
+            },
+            {
+                "url": "assets/tiles/ladder_middle.png",
+                "type": "image",
+                "key": "ladder_middle"
+            },
+            {
+                "url": "assets/tiles/ladder_top.png",
+                "type": "image",
+                "key": "ladder_top"
+            },
+            {
+                "url": "assets/tiles/lava.png",
+                "type": "image",
+                "key": "lava"
+            },
+            {
+                "url": "assets/tiles/lava_top.png",
+                "type": "image",
+                "key": "lava_top"
+            },
+            {
+                "url": "assets/tiles/lava_top_low.png",
+                "type": "image",
+                "key": "lava_top_low"
+            },
+            {
+                "url": "assets/tiles/lever.png",
+                "type": "image",
+                "key": "lever"
+            },
+            {
+                "url": "assets/tiles/lever_left.png",
+                "type": "image",
+                "key": "lever_left"
+            },
+            {
+                "url": "assets/tiles/lever_right.png",
+                "type": "image",
+                "key": "lever_right"
+            },
+            {
+                "url": "assets/tiles/lock_blue.png",
+                "type": "image",
+                "key": "lock_blue"
+            },
+            {
+                "url": "assets/tiles/lock_green.png",
+                "type": "image",
+                "key": "lock_green"
+            },
+            {
+                "url": "assets/tiles/lock_red.png",
+                "type": "image",
+                "key": "lock_red"
+            },
+            {
+                "url": "assets/tiles/lock_yellow.png",
+                "type": "image",
+                "key": "lock_yellow"
+            },
+            {
+                "url": "assets/tiles/mushroom_brown.png",
+                "type": "image",
+                "key": "mushroom_brown"
+            },
+            {
+                "url": "assets/tiles/mushroom_red.png",
+                "type": "image",
+                "key": "mushroom_red"
+            },
+            {
+                "url": "assets/tiles/ramp.png",
+                "type": "image",
+                "key": "ramp"
+            },
+            {
+                "url": "assets/tiles/rock.png",
+                "type": "image",
+                "key": "rock"
+            },
+            {
+                "url": "assets/tiles/rop_attached.png",
+                "type": "image",
+                "key": "rop_attached"
+            },
+            {
+                "url": "assets/tiles/rope.png",
+                "type": "image",
+                "key": "rope"
+            },
+            {
+                "url": "assets/tiles/saw.png",
+                "type": "image",
+                "key": "saw"
+            },
+            {
+                "url": "assets/tiles/sign.png",
+                "type": "image",
+                "key": "sign"
+            },
+            {
+                "url": "assets/tiles/sign_exit.png",
+                "type": "image",
+                "key": "sign_exit"
+            },
+            {
+                "url": "assets/tiles/sign_left.png",
+                "type": "image",
+                "key": "sign_left"
+            },
+            {
+                "url": "assets/tiles/sign_right.png",
+                "type": "image",
+                "key": "sign_right"
+            },
+            {
+                "url": "assets/tiles/snow.png",
+                "type": "image",
+                "key": "snow"
+            },
+            {
+                "url": "assets/tiles/spikes.png",
+                "type": "image",
+                "key": "spikes"
+            },
+            {
+                "url": "assets/tiles/spring.png",
+                "type": "image",
+                "key": "spring"
+            },
+            {
+                "url": "assets/tiles/spring_out.png",
+                "type": "image",
+                "key": "spring_out"
+            },
+            {
+                "url": "assets/tiles/star.png",
+                "type": "image",
+                "key": "star"
+            },
+            {
+                "url": "assets/tiles/switch_blue.png",
+                "type": "image",
+                "key": "switch_blue"
+            },
+            {
+                "url": "assets/tiles/switch_blue_pressed.png",
+                "type": "image",
+                "key": "switch_blue_pressed"
+            },
+            {
+                "url": "assets/tiles/switch_green.png",
+                "type": "image",
+                "key": "switch_green"
+            },
+            {
+                "url": "assets/tiles/switch_green_pressed.png",
+                "type": "image",
+                "key": "switch_green_pressed"
+            },
+            {
+                "url": "assets/tiles/switch_red.png",
+                "type": "image",
+                "key": "switch_red"
+            },
+            {
+                "url": "assets/tiles/switch_red_pressed.png",
+                "type": "image",
+                "key": "switch_red_pressed"
+            },
+            {
+                "url": "assets/tiles/switch_yellow.png",
+                "type": "image",
+                "key": "switch_yellow"
+            },
+            {
+                "url": "assets/tiles/torch_off.png",
+                "type": "image",
+                "key": "torch_off"
+            },
+            {
+                "url": "assets/tiles/torch_on_0png.png",
+                "type": "image",
+                "key": "torch_on_0png"
+            },
+            {
+                "url": "assets/tiles/torch_on_1.png",
+                "type": "image",
+                "key": "torch_on_1"
+            },
+            {
+                "url": "assets/tiles/water.png",
+                "type": "image",
+                "key": "water"
+            },
+            {
+                "url": "assets/tiles/water_top.png",
+                "type": "image",
+                "key": "water_top"
+            },
+            {
+                "url": "assets/tiles/water_top_low.png",
+                "type": "image",
+                "key": "water_top_low"
+            },
+            {
+                "url": "assets/tiles/weight.png",
+                "type": "image",
+                "key": "weight"
+            },
+            {
+                "url": "assets/tiles/window.png",
+                "type": "image",
+                "key": "window"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}

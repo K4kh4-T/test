@@ -1,0 +1,59 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/character_yellow/character_yellow_climb_0.png",
+                "type": "image",
+                "key": "character_yellow_climb_0"
+            },
+            {
+                "url": "assets/character_yellow/character_yellow_climb_1.png",
+                "type": "image",
+                "key": "character_yellow_climb_1"
+            },
+            {
+                "url": "assets/character_yellow/character_yellow_duck.png",
+                "type": "image",
+                "key": "character_yellow_duck"
+            },
+            {
+                "url": "assets/character_yellow/character_yellow_front.png",
+                "type": "image",
+                "key": "character_yellow_front"
+            },
+            {
+                "url": "assets/character_yellow/character_yellow_hit.png",
+                "type": "image",
+                "key": "character_yellow_hit"
+            },
+            {
+                "url": "assets/character_yellow/character_yellow_idle.png",
+                "type": "image",
+                "key": "character_yellow_idle"
+            },
+            {
+                "url": "assets/character_yellow/character_yellow_jump.png",
+                "type": "image",
+                "key": "character_yellow_jump"
+            },
+            {
+                "url": "assets/character_yellow/character_yellow_walk_0.png",
+                "type": "image",
+                "key": "character_yellow_walk_0"
+            },
+            {
+                "url": "assets/character_yellow/character_yellow_walk_1.png",
+                "type": "image",
+                "key": "character_yellow_walk_1"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}

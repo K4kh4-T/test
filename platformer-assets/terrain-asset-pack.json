@@ -1,0 +1,854 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/terrainAssets/terrain_dirt_block.png",
+                "type": "image",
+                "key": "terrain_dirt_block"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_block_bottom.png",
+                "type": "image",
+                "key": "terrain_dirt_block_bottom"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_block_bottom_left.png",
+                "type": "image",
+                "key": "terrain_dirt_block_bottom_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_block_bottom_right.png",
+                "type": "image",
+                "key": "terrain_dirt_block_bottom_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_block_center.png",
+                "type": "image",
+                "key": "terrain_dirt_block_center"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_block_left.png",
+                "type": "image",
+                "key": "terrain_dirt_block_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_block_right.png",
+                "type": "image",
+                "key": "terrain_dirt_block_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_block_top.png",
+                "type": "image",
+                "key": "terrain_dirt_block_top"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_block_top_left.png",
+                "type": "image",
+                "key": "terrain_dirt_block_top_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_block_top_right.png",
+                "type": "image",
+                "key": "terrain_dirt_block_top_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_cloud.png",
+                "type": "image",
+                "key": "terrain_dirt_cloud"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_cloud_background.png",
+                "type": "image",
+                "key": "terrain_dirt_cloud_background"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_cloud_left.png",
+                "type": "image",
+                "key": "terrain_dirt_cloud_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_cloud_middle.png",
+                "type": "image",
+                "key": "terrain_dirt_cloud_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_cloud_right.png",
+                "type": "image",
+                "key": "terrain_dirt_cloud_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_horizontal_left.png",
+                "type": "image",
+                "key": "terrain_dirt_horizontal_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_horizontal_middle.png",
+                "type": "image",
+                "key": "terrain_dirt_horizontal_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_horizontal_overhang_left.png",
+                "type": "image",
+                "key": "terrain_dirt_horizontal_overhang_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_horizontal_overhang_right.png",
+                "type": "image",
+                "key": "terrain_dirt_horizontal_overhang_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_horizontal_right.png",
+                "type": "image",
+                "key": "terrain_dirt_horizontal_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_ramp_long_a.png",
+                "type": "image",
+                "key": "terrain_dirt_ramp_long_a"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_ramp_long_b.png",
+                "type": "image",
+                "key": "terrain_dirt_ramp_long_b"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_ramp_long_c.png",
+                "type": "image",
+                "key": "terrain_dirt_ramp_long_c"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_ramp_short_a.png",
+                "type": "image",
+                "key": "terrain_dirt_ramp_short_a"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_ramp_short_b.png",
+                "type": "image",
+                "key": "terrain_dirt_ramp_short_b"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_vertical_bottom.png",
+                "type": "image",
+                "key": "terrain_dirt_vertical_bottom"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_vertical_middle.png",
+                "type": "image",
+                "key": "terrain_dirt_vertical_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_dirt_vertical_top.png",
+                "type": "image",
+                "key": "terrain_dirt_vertical_top"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_block.png",
+                "type": "image",
+                "key": "terrain_grass_block"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_block_bottom.png",
+                "type": "image",
+                "key": "terrain_grass_block_bottom"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_block_bottom_left.png",
+                "type": "image",
+                "key": "terrain_grass_block_bottom_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_block_bottom_right.png",
+                "type": "image",
+                "key": "terrain_grass_block_bottom_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_block_center.png",
+                "type": "image",
+                "key": "terrain_grass_block_center"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_block_left.png",
+                "type": "image",
+                "key": "terrain_grass_block_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_block_right.png",
+                "type": "image",
+                "key": "terrain_grass_block_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_block_top.png",
+                "type": "image",
+                "key": "terrain_grass_block_top"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_block_top_left.png",
+                "type": "image",
+                "key": "terrain_grass_block_top_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_block_top_right.png",
+                "type": "image",
+                "key": "terrain_grass_block_top_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_cloud.png",
+                "type": "image",
+                "key": "terrain_grass_cloud"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_cloud_background.png",
+                "type": "image",
+                "key": "terrain_grass_cloud_background"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_cloud_left.png",
+                "type": "image",
+                "key": "terrain_grass_cloud_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_cloud_middle.png",
+                "type": "image",
+                "key": "terrain_grass_cloud_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_cloud_right.png",
+                "type": "image",
+                "key": "terrain_grass_cloud_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_horizontal_left.png",
+                "type": "image",
+                "key": "terrain_grass_horizontal_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_horizontal_middle.png",
+                "type": "image",
+                "key": "terrain_grass_horizontal_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_horizontal_overhang_left.png",
+                "type": "image",
+                "key": "terrain_grass_horizontal_overhang_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_horizontal_overhang_right.png",
+                "type": "image",
+                "key": "terrain_grass_horizontal_overhang_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_horizontal_right.png",
+                "type": "image",
+                "key": "terrain_grass_horizontal_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_ramp_long_a.png",
+                "type": "image",
+                "key": "terrain_grass_ramp_long_a"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_ramp_long_b.png",
+                "type": "image",
+                "key": "terrain_grass_ramp_long_b"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_ramp_long_c.png",
+                "type": "image",
+                "key": "terrain_grass_ramp_long_c"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_ramp_short_a.png",
+                "type": "image",
+                "key": "terrain_grass_ramp_short_a"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_ramp_short_b.png",
+                "type": "image",
+                "key": "terrain_grass_ramp_short_b"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_vertical_bottom.png",
+                "type": "image",
+                "key": "terrain_grass_vertical_bottom"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_vertical_middle.png",
+                "type": "image",
+                "key": "terrain_grass_vertical_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_grass_vertical_top.png",
+                "type": "image",
+                "key": "terrain_grass_vertical_top"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_block.png",
+                "type": "image",
+                "key": "terrain_purple_block"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_block_bottom.png",
+                "type": "image",
+                "key": "terrain_purple_block_bottom"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_block_bottom_left.png",
+                "type": "image",
+                "key": "terrain_purple_block_bottom_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_block_bottom_right.png",
+                "type": "image",
+                "key": "terrain_purple_block_bottom_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_block_center.png",
+                "type": "image",
+                "key": "terrain_purple_block_center"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_block_left.png",
+                "type": "image",
+                "key": "terrain_purple_block_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_block_right.png",
+                "type": "image",
+                "key": "terrain_purple_block_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_block_top.png",
+                "type": "image",
+                "key": "terrain_purple_block_top"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_block_top_left.png",
+                "type": "image",
+                "key": "terrain_purple_block_top_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_block_top_right.png",
+                "type": "image",
+                "key": "terrain_purple_block_top_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_cloud.png",
+                "type": "image",
+                "key": "terrain_purple_cloud"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_cloud_background.png",
+                "type": "image",
+                "key": "terrain_purple_cloud_background"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_cloud_left.png",
+                "type": "image",
+                "key": "terrain_purple_cloud_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_cloud_middle.png",
+                "type": "image",
+                "key": "terrain_purple_cloud_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_cloud_right.png",
+                "type": "image",
+                "key": "terrain_purple_cloud_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_horizontal_left.png",
+                "type": "image",
+                "key": "terrain_purple_horizontal_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_horizontal_middle.png",
+                "type": "image",
+                "key": "terrain_purple_horizontal_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_horizontal_overhang_left.png",
+                "type": "image",
+                "key": "terrain_purple_horizontal_overhang_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_horizontal_overhang_right.png",
+                "type": "image",
+                "key": "terrain_purple_horizontal_overhang_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_horizontal_right.png",
+                "type": "image",
+                "key": "terrain_purple_horizontal_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_ramp_long_a.png",
+                "type": "image",
+                "key": "terrain_purple_ramp_long_a"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_ramp_long_b.png",
+                "type": "image",
+                "key": "terrain_purple_ramp_long_b"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_ramp_long_c.png",
+                "type": "image",
+                "key": "terrain_purple_ramp_long_c"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_ramp_short_a.png",
+                "type": "image",
+                "key": "terrain_purple_ramp_short_a"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_ramp_short_b.png",
+                "type": "image",
+                "key": "terrain_purple_ramp_short_b"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_vertical_bottom.png",
+                "type": "image",
+                "key": "terrain_purple_vertical_bottom"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_vertical_middle.png",
+                "type": "image",
+                "key": "terrain_purple_vertical_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_purple_vertical_top.png",
+                "type": "image",
+                "key": "terrain_purple_vertical_top"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_block.png",
+                "type": "image",
+                "key": "terrain_sand_block"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_block_bottom.png",
+                "type": "image",
+                "key": "terrain_sand_block_bottom"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_block_bottom_left.png",
+                "type": "image",
+                "key": "terrain_sand_block_bottom_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_block_bottom_right.png",
+                "type": "image",
+                "key": "terrain_sand_block_bottom_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_block_center.png",
+                "type": "image",
+                "key": "terrain_sand_block_center"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_block_left.png",
+                "type": "image",
+                "key": "terrain_sand_block_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_block_right.png",
+                "type": "image",
+                "key": "terrain_sand_block_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_block_top.png",
+                "type": "image",
+                "key": "terrain_sand_block_top"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_block_top_left.png",
+                "type": "image",
+                "key": "terrain_sand_block_top_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_block_top_right.png",
+                "type": "image",
+                "key": "terrain_sand_block_top_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_cloud.png",
+                "type": "image",
+                "key": "terrain_sand_cloud"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_cloud_background.png",
+                "type": "image",
+                "key": "terrain_sand_cloud_background"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_cloud_left.png",
+                "type": "image",
+                "key": "terrain_sand_cloud_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_cloud_middle.png",
+                "type": "image",
+                "key": "terrain_sand_cloud_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_cloud_right.png",
+                "type": "image",
+                "key": "terrain_sand_cloud_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_horizontal_left.png",
+                "type": "image",
+                "key": "terrain_sand_horizontal_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_horizontal_middle.png",
+                "type": "image",
+                "key": "terrain_sand_horizontal_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_horizontal_overhang_left.png",
+                "type": "image",
+                "key": "terrain_sand_horizontal_overhang_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_horizontal_overhang_right.png",
+                "type": "image",
+                "key": "terrain_sand_horizontal_overhang_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_horizontal_right.png",
+                "type": "image",
+                "key": "terrain_sand_horizontal_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_ramp_long_a.png",
+                "type": "image",
+                "key": "terrain_sand_ramp_long_a"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_ramp_long_b.png",
+                "type": "image",
+                "key": "terrain_sand_ramp_long_b"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_ramp_long_c.png",
+                "type": "image",
+                "key": "terrain_sand_ramp_long_c"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_ramp_short_a.png",
+                "type": "image",
+                "key": "terrain_sand_ramp_short_a"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_ramp_short_b.png",
+                "type": "image",
+                "key": "terrain_sand_ramp_short_b"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_vertical_bottom.png",
+                "type": "image",
+                "key": "terrain_sand_vertical_bottom"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_vertical_middle.png",
+                "type": "image",
+                "key": "terrain_sand_vertical_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_sand_vertical_top.png",
+                "type": "image",
+                "key": "terrain_sand_vertical_top"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_block.png",
+                "type": "image",
+                "key": "terrain_snow_block"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_block_bottom.png",
+                "type": "image",
+                "key": "terrain_snow_block_bottom"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_block_bottom_left.png",
+                "type": "image",
+                "key": "terrain_snow_block_bottom_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_block_bottom_right.png",
+                "type": "image",
+                "key": "terrain_snow_block_bottom_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_block_center.png",
+                "type": "image",
+                "key": "terrain_snow_block_center"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_block_left.png",
+                "type": "image",
+                "key": "terrain_snow_block_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_block_right.png",
+                "type": "image",
+                "key": "terrain_snow_block_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_block_top.png",
+                "type": "image",
+                "key": "terrain_snow_block_top"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_block_top_left.png",
+                "type": "image",
+                "key": "terrain_snow_block_top_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_block_top_right.png",
+                "type": "image",
+                "key": "terrain_snow_block_top_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_cloud.png",
+                "type": "image",
+                "key": "terrain_snow_cloud"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_cloud_background.png",
+                "type": "image",
+                "key": "terrain_snow_cloud_background"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_cloud_left.png",
+                "type": "image",
+                "key": "terrain_snow_cloud_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_cloud_middle.png",
+                "type": "image",
+                "key": "terrain_snow_cloud_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_cloud_right.png",
+                "type": "image",
+                "key": "terrain_snow_cloud_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_horizontal_left.png",
+                "type": "image",
+                "key": "terrain_snow_horizontal_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_horizontal_middle.png",
+                "type": "image",
+                "key": "terrain_snow_horizontal_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_horizontal_overhang_left.png",
+                "type": "image",
+                "key": "terrain_snow_horizontal_overhang_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_horizontal_overhang_right.png",
+                "type": "image",
+                "key": "terrain_snow_horizontal_overhang_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_horizontal_right.png",
+                "type": "image",
+                "key": "terrain_snow_horizontal_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_ramp_long_a.png",
+                "type": "image",
+                "key": "terrain_snow_ramp_long_a"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_ramp_long_b.png",
+                "type": "image",
+                "key": "terrain_snow_ramp_long_b"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_ramp_long_c.png",
+                "type": "image",
+                "key": "terrain_snow_ramp_long_c"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_ramp_short_a.png",
+                "type": "image",
+                "key": "terrain_snow_ramp_short_a"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_ramp_short_b.png",
+                "type": "image",
+                "key": "terrain_snow_ramp_short_b"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_vertical_bottom.png",
+                "type": "image",
+                "key": "terrain_snow_vertical_bottom"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_vertical_middle.png",
+                "type": "image",
+                "key": "terrain_snow_vertical_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_snow_vertical_top.png",
+                "type": "image",
+                "key": "terrain_snow_vertical_top"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_block.png",
+                "type": "image",
+                "key": "terrain_stone_block"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_block_bottom.png",
+                "type": "image",
+                "key": "terrain_stone_block_bottom"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_block_bottom_left.png",
+                "type": "image",
+                "key": "terrain_stone_block_bottom_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_block_bottom_right.png",
+                "type": "image",
+                "key": "terrain_stone_block_bottom_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_block_center.png",
+                "type": "image",
+                "key": "terrain_stone_block_center"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_block_left.png",
+                "type": "image",
+                "key": "terrain_stone_block_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_block_right.png",
+                "type": "image",
+                "key": "terrain_stone_block_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_block_top.png",
+                "type": "image",
+                "key": "terrain_stone_block_top"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_block_top_left.png",
+                "type": "image",
+                "key": "terrain_stone_block_top_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_block_top_right.png",
+                "type": "image",
+                "key": "terrain_stone_block_top_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_cloud.png",
+                "type": "image",
+                "key": "terrain_stone_cloud"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_cloud_background.png",
+                "type": "image",
+                "key": "terrain_stone_cloud_background"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_cloud_left.png",
+                "type": "image",
+                "key": "terrain_stone_cloud_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_cloud_middle.png",
+                "type": "image",
+                "key": "terrain_stone_cloud_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_cloud_right.png",
+                "type": "image",
+                "key": "terrain_stone_cloud_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_horizontal_left.png",
+                "type": "image",
+                "key": "terrain_stone_horizontal_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_horizontal_middle.png",
+                "type": "image",
+                "key": "terrain_stone_horizontal_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_horizontal_overhang_left.png",
+                "type": "image",
+                "key": "terrain_stone_horizontal_overhang_left"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_horizontal_overhang_right.png",
+                "type": "image",
+                "key": "terrain_stone_horizontal_overhang_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_horizontal_right.png",
+                "type": "image",
+                "key": "terrain_stone_horizontal_right"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_ramp_long_a.png",
+                "type": "image",
+                "key": "terrain_stone_ramp_long_a"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_ramp_long_b.png",
+                "type": "image",
+                "key": "terrain_stone_ramp_long_b"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_ramp_long_c.png",
+                "type": "image",
+                "key": "terrain_stone_ramp_long_c"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_ramp_short_a.png",
+                "type": "image",
+                "key": "terrain_stone_ramp_short_a"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_ramp_short_b.png",
+                "type": "image",
+                "key": "terrain_stone_ramp_short_b"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_vertical_bottom.png",
+                "type": "image",
+                "key": "terrain_stone_vertical_bottom"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_vertical_middle.png",
+                "type": "image",
+                "key": "terrain_stone_vertical_middle"
+            },
+            {
+                "url": "assets/terrainAssets/terrain_stone_vertical_top.png",
+                "type": "image",
+                "key": "terrain_stone_vertical_top"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}
