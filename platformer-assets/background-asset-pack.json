@@ -1,0 +1,84 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/background /background_clouds.png",
+                "type": "image",
+                "key": "background_clouds"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/background /background_color_desert.png",
+                "type": "image",
+                "key": "background_color_desert"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/background /background_color_hills.png",
+                "type": "image",
+                "key": "background_color_hills"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/background /background_color_mushrooms.png",
+                "type": "image",
+                "key": "background_color_mushrooms"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/background /background_color_trees.png",
+                "type": "image",
+                "key": "background_color_trees"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/background /background_fade_desert.png",
+                "type": "image",
+                "key": "background_fade_desert"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/background /background_fade_hills.png",
+                "type": "image",
+                "key": "background_fade_hills"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/background /background_fade_mushrooms.png",
+                "type": "image",
+                "key": "background_fade_mushrooms"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/background /background_fade_trees.png",
+                "type": "image",
+                "key": "background_fade_trees"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/background /background_solid_cloud.png",
+                "type": "image",
+                "key": "background_solid_cloud"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/background /background_solid_dirt.png",
+                "type": "image",
+                "key": "background_solid_dirt"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/background /background_solid_grass.png",
+                "type": "image",
+                "key": "background_solid_grass"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/background /background_solid_sand.png",
+                "type": "image",
+                "key": "background_solid_sand"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/https://k4kh4-t.github.io/test/platformer-assets/background /background_solid_sky.png",
+                "type": "image",
+                "key": "background_solid_sky"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}

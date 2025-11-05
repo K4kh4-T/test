@@ -1,0 +1,314 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/barnacle_attack_a.png",
+                "type": "image",
+                "key": "barnacle_attack_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/barnacle_attack_b.png",
+                "type": "image",
+                "key": "barnacle_attack_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/barnacle_attack_rest.png",
+                "type": "image",
+                "key": "barnacle_attack_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/bee_a.png",
+                "type": "image",
+                "key": "bee_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/bee_b.png",
+                "type": "image",
+                "key": "bee_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/bee_rest.png",
+                "type": "image",
+                "key": "bee_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/block_fall.png",
+                "type": "image",
+                "key": "block_fall"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/block_idle.png",
+                "type": "image",
+                "key": "block_idle"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/block_rest.png",
+                "type": "image",
+                "key": "block_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/fish_blue_rest.png",
+                "type": "image",
+                "key": "fish_blue_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/fish_blue_swim_a.png",
+                "type": "image",
+                "key": "fish_blue_swim_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/fish_blue_swim_b.png",
+                "type": "image",
+                "key": "fish_blue_swim_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/fish_purple_down.png",
+                "type": "image",
+                "key": "fish_purple_down"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/fish_purple_rest.png",
+                "type": "image",
+                "key": "fish_purple_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/fish_purple_up.png",
+                "type": "image",
+                "key": "fish_purple_up"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/fish_yellow_rest.png",
+                "type": "image",
+                "key": "fish_yellow_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/fish_yellow_swim_a.png",
+                "type": "image",
+                "key": "fish_yellow_swim_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/fish_yellow_swim_b.png",
+                "type": "image",
+                "key": "fish_yellow_swim_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/fly_a.png",
+                "type": "image",
+                "key": "fly_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/fly_b.png",
+                "type": "image",
+                "key": "fly_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/fly_rest.png",
+                "type": "image",
+                "key": "fly_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/frog_idle.png",
+                "type": "image",
+                "key": "frog_idle"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/frog_jump.png",
+                "type": "image",
+                "key": "frog_jump"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/frog_rest.png",
+                "type": "image",
+                "key": "frog_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/ladybug_fly.png",
+                "type": "image",
+                "key": "ladybug_fly"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/ladybug_rest.png",
+                "type": "image",
+                "key": "ladybug_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/ladybug_walk_a.png",
+                "type": "image",
+                "key": "ladybug_walk_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/ladybug_walk_b.png",
+                "type": "image",
+                "key": "ladybug_walk_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/mouse_rest.png",
+                "type": "image",
+                "key": "mouse_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/mouse_walk_a.png",
+                "type": "image",
+                "key": "mouse_walk_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/mouse_walk_b.png",
+                "type": "image",
+                "key": "mouse_walk_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/saw_a.png",
+                "type": "image",
+                "key": "saw_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/saw_b.png",
+                "type": "image",
+                "key": "saw_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/saw_rest.png",
+                "type": "image",
+                "key": "saw_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_block_jump.png",
+                "type": "image",
+                "key": "slime_block_jump"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_block_rest.png",
+                "type": "image",
+                "key": "slime_block_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_block_walk_a.png",
+                "type": "image",
+                "key": "slime_block_walk_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_block_walk_b.png",
+                "type": "image",
+                "key": "slime_block_walk_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_fire_flat.png",
+                "type": "image",
+                "key": "slime_fire_flat"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_fire_rest.png",
+                "type": "image",
+                "key": "slime_fire_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_fire_walk_a.png",
+                "type": "image",
+                "key": "slime_fire_walk_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_fire_walk_b.png",
+                "type": "image",
+                "key": "slime_fire_walk_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_normal_flat.png",
+                "type": "image",
+                "key": "slime_normal_flat"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_normal_rest.png",
+                "type": "image",
+                "key": "slime_normal_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_normal_walk_a.png",
+                "type": "image",
+                "key": "slime_normal_walk_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_normal_walk_b.png",
+                "type": "image",
+                "key": "slime_normal_walk_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_spike_flat.png",
+                "type": "image",
+                "key": "slime_spike_flat"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_spike_rest.png",
+                "type": "image",
+                "key": "slime_spike_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_spike_walk_a.png",
+                "type": "image",
+                "key": "slime_spike_walk_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/slime_spike_walk_b.png",
+                "type": "image",
+                "key": "slime_spike_walk_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/snail_rest.png",
+                "type": "image",
+                "key": "snail_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/snail_shell.png",
+                "type": "image",
+                "key": "snail_shell"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/snail_walk_a.png",
+                "type": "image",
+                "key": "snail_walk_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/snail_walk_b.png",
+                "type": "image",
+                "key": "snail_walk_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/worm_normal_move_a.png",
+                "type": "image",
+                "key": "worm_normal_move_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/worm_normal_move_b.png",
+                "type": "image",
+                "key": "worm_normal_move_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/worm_normal_rest.png",
+                "type": "image",
+                "key": "worm_normal_rest"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/worm_ring_move_a.png",
+                "type": "image",
+                "key": "worm_ring_move_a"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/worm_ring_move_b.png",
+                "type": "image",
+                "key": "worm_ring_move_b"
+            },
+            {
+                "url": "https://k4kh4-t.github.io/test/platformer-assets/enemies/worm_ring_rest.png",
+                "type": "image",
+                "key": "worm_ring_rest"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}
