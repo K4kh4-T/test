@@ -2,7 +2,7 @@
     "section1": {
         "files": [
             {
-                "url": "assets/FX/Fx-Animated-Sprites/candle.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/candle.png",
                 "frameConfig": {
                     "frameWidth": 170,
                     "frameHeight": 170,
@@ -15,7 +15,7 @@
                 "key": "candle"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/candle_blurry.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/candle_blurry.png",
                 "frameConfig": {
                     "frameWidth": 170,
                     "frameHeight": 170,
@@ -28,7 +28,7 @@
                 "key": "candle_blurry"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/candle_soft.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/candle_soft.png",
                 "frameConfig": {
                     "frameWidth": 170,
                     "frameHeight": 170,
@@ -41,7 +41,7 @@
                 "key": "candle_soft"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/candle_soft2.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/candle_soft2.png",
                 "frameConfig": {
                     "frameWidth": 170,
                     "frameHeight": 170,
@@ -54,7 +54,7 @@
                 "key": "candle_soft2"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/candle_soft3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/candle_soft3.png",
                 "frameConfig": {
                     "frameWidth": 170,
                     "frameHeight": 170,
@@ -67,7 +67,7 @@
                 "key": "candle_soft3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/cardglow06.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/cardglow06.png",
                 "frameConfig": {
                     "frameWidth": 1024,
                     "frameHeight": 1024,
@@ -80,7 +80,7 @@
                 "key": "cardglow06"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/cardglow07.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/cardglow07.png",
                 "frameConfig": {
                     "frameWidth": 1024,
                     "frameHeight": 1024,
@@ -93,7 +93,7 @@
                 "key": "cardglow07"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/coins_outline.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/coins_outline.png",
                 "frameConfig": {
                     "frameWidth": 128,
                     "frameHeight": 128,
@@ -106,7 +106,7 @@
                 "key": "coins_outline"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/explosion_round_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/explosion_round_3x3.png",
                 "frameConfig": {
                     "frameWidth": 341,
                     "frameHeight": 341,
@@ -119,7 +119,7 @@
                 "key": "explosion_round_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/explosion_round_outlined_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/explosion_round_outlined_3x3.png",
                 "frameConfig": {
                     "frameWidth": 341,
                     "frameHeight": 341,
@@ -132,7 +132,7 @@
                 "key": "explosion_round_outlined_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/explosion_round_softshadow_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/explosion_round_softshadow_3x3.png",
                 "frameConfig": {
                     "frameWidth": 341,
                     "frameHeight": 341,
@@ -145,7 +145,7 @@
                 "key": "explosion_round_softshadow_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/explosion_round2_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/explosion_round2_3x3.png",
                 "frameConfig": {
                     "frameWidth": 341,
                     "frameHeight": 341,
@@ -158,7 +158,7 @@
                 "key": "explosion_round2_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/explosion_round3_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/explosion_round3_3x3.png",
                 "frameConfig": {
                     "frameWidth": 341,
                     "frameHeight": 341,
@@ -171,7 +171,7 @@
                 "key": "explosion_round3_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/explosion_sharp_flat_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/explosion_sharp_flat_3x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 340,
@@ -184,7 +184,7 @@
                 "key": "explosion_sharp_flat_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/explosion_sharp_soft_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/explosion_sharp_soft_3x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 340,
@@ -197,7 +197,7 @@
                 "key": "explosion_sharp_soft_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/fire_6x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/fire_6x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 340,
@@ -210,7 +210,7 @@
                 "key": "fire_6x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/fire_ground_soft3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/fire_ground_soft3x3.png",
                 "frameConfig": {
                     "frameWidth": 170,
                     "frameHeight": 42,
@@ -223,7 +223,7 @@
                 "key": "fire_ground_soft3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/fire_ground_softer3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/fire_ground_softer3x3.png",
                 "frameConfig": {
                     "frameWidth": 170,
                     "frameHeight": 42,
@@ -236,7 +236,7 @@
                 "key": "fire_ground_softer3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/fire_ground3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/fire_ground3x3.png",
                 "frameConfig": {
                     "frameWidth": 170,
                     "frameHeight": 42,
@@ -249,7 +249,7 @@
                 "key": "fire_ground3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/fire_soft.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/fire_soft.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 512,
@@ -262,7 +262,7 @@
                 "key": "fire_soft"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/fire_soft_blank.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/fire_soft_blank.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 512,
@@ -275,7 +275,7 @@
                 "key": "fire_soft_blank"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/fire_soft_spiky.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/fire_soft_spiky.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 512,
@@ -288,7 +288,7 @@
                 "key": "fire_soft_spiky"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/fire2_6x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/fire2_6x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 340,
@@ -301,7 +301,7 @@
                 "key": "fire2_6x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/healing.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/healing.png",
                 "frameConfig": {
                     "frameWidth": 170,
                     "frameHeight": 170,
@@ -314,7 +314,7 @@
                 "key": "healing"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/leaf_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/leaf_3x3.png",
                 "frameConfig": {
                     "frameWidth": 170,
                     "frameHeight": 170,
@@ -327,7 +327,7 @@
                 "key": "leaf_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/lightning_spikes_3x1.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/lightning_spikes_3x1.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 170,
@@ -340,7 +340,7 @@
                 "key": "lightning_spikes_3x1"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/lightning_v1_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/lightning_v1_3x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 341,
@@ -353,7 +353,7 @@
                 "key": "lightning_v1_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/lightning_v2_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/lightning_v2_3x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 341,
@@ -366,7 +366,7 @@
                 "key": "lightning_v2_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/lightning_v3_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/lightning_v3_3x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 341,
@@ -379,7 +379,7 @@
                 "key": "lightning_v3_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/nova_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/nova_3x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 682,
@@ -392,7 +392,7 @@
                 "key": "nova_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/nova_6x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/nova_6x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 682,
@@ -405,7 +405,7 @@
                 "key": "nova_6x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/nova_soft_6x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/nova_soft_6x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 682,
@@ -418,7 +418,7 @@
                 "key": "nova_soft_6x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/portal_circular.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/portal_circular.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 512,
@@ -431,7 +431,7 @@
                 "key": "portal_circular"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/portal_soft01.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/portal_soft01.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 512,
@@ -444,7 +444,7 @@
                 "key": "portal_soft01"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/portal_soft02.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/portal_soft02.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 512,
@@ -457,7 +457,7 @@
                 "key": "portal_soft02"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/portal_stripes_blue.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/portal_stripes_blue.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 32,
@@ -470,7 +470,7 @@
                 "key": "portal_stripes_blue"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/portal_stripes_green.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/portal_stripes_green.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 512,
@@ -483,7 +483,7 @@
                 "key": "portal_stripes_green"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/portal_stripes_purple.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/portal_stripes_purple.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 512,
@@ -496,7 +496,7 @@
                 "key": "portal_stripes_purple"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/portal_stripes_red.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/portal_stripes_red.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 512,
@@ -509,7 +509,7 @@
                 "key": "portal_stripes_red"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/portal_stripes_yellow.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/portal_stripes_yellow.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 512,
@@ -522,7 +522,7 @@
                 "key": "portal_stripes_yellow"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/slash_sharp.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/slash_sharp.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 341,
@@ -535,7 +535,7 @@
                 "key": "slash_sharp"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/slash_soft.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/slash_soft.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 341,
@@ -548,7 +548,7 @@
                 "key": "slash_soft"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/splat00_flat_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/splat00_flat_3x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 341,
@@ -561,7 +561,7 @@
                 "key": "splat00_flat_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/splat00_trsp_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/splat00_trsp_3x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 341,
@@ -574,7 +574,7 @@
                 "key": "splat00_trsp_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/splat01_flat_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/splat01_flat_3x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 341,
@@ -587,7 +587,7 @@
                 "key": "splat01_flat_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/splat01_shaded_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/splat01_shaded_3x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 341,
@@ -600,7 +600,7 @@
                 "key": "splat01_shaded_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/splat01_trsp_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/splat01_trsp_3x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 341,
@@ -613,7 +613,7 @@
                 "key": "splat01_trsp_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/splat02_flat_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/splat02_flat_3x3.png",
                 "frameConfig": {
                     "frameWidth": 341,
                     "frameHeight": 341,
@@ -626,7 +626,7 @@
                 "key": "splat02_flat_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/splat02_shaded_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/splat02_shaded_3x3.png",
                 "frameConfig": {
                     "frameWidth": 341,
                     "frameHeight": 32341,
@@ -639,7 +639,7 @@
                 "key": "splat02_shaded_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/splat02_trsp_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/splat02_trsp_3x3.png",
                 "frameConfig": {
                     "frameWidth": 341,
                     "frameHeight": 341,
@@ -652,7 +652,7 @@
                 "key": "splat02_trsp_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/splat03_flat_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/splat03_flat_3x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 682,
@@ -665,7 +665,7 @@
                 "key": "splat03_flat_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/splat03_shaded_3x3.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/splat03_shaded_3x3.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 682,
@@ -678,7 +678,7 @@
                 "key": "splat03_shaded_3x3"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/splat03_trsp_4x4.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/splat03_trsp_4x4.png",
                 "frameConfig": {
                     "frameWidth": 682,
                     "frameHeight": 682,
@@ -691,7 +691,7 @@
                 "key": "splat03_trsp_4x4"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/star_4x4.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/star_4x4.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 512,
@@ -704,7 +704,7 @@
                 "key": "star_4x4"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/star_soft_4x4.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/star_soft_4x4.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 512,
@@ -717,7 +717,7 @@
                 "key": "star_soft_4x4"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/talkbubble.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/talkbubble.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 512,
@@ -730,7 +730,7 @@
                 "key": "talkbubble"
             },
             {
-                "url": "assets/FX/Fx-Animated-Sprites/talkbubble_4x4.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Fx-Animated-Sprites/talkbubble_4x4.png",
                 "frameConfig": {
                     "frameWidth": 512,
                     "frameHeight": 512,

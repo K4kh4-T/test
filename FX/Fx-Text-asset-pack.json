@@ -2,162 +2,162 @@
     "section1": {
         "files": [
             {
-                "url": "assets/FX/Text/sharp_blue.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/sharp_blue.png",
                 "type": "image",
                 "key": "sharp_blue"
             },
             {
-                "url": "assets/FX/Text/sharp_green.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/sharp_green.png",
                 "type": "image",
                 "key": "sharp_green"
             },
             {
-                "url": "assets/FX/Text/sharp_red.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/sharp_red.png",
                 "type": "image",
                 "key": "sharp_red"
             },
             {
-                "url": "assets/FX/Text/sharp_white.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/sharp_white.png",
                 "type": "image",
                 "key": "sharp_white"
             },
             {
-                "url": "assets/FX/Text/sharp_yellow.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/sharp_yellow.png",
                 "type": "image",
                 "key": "sharp_yellow"
             },
             {
-                "url": "assets/FX/Text/txt_bang.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_bang.png",
                 "type": "image",
                 "key": "txt_bang"
             },
             {
-                "url": "assets/FX/Text/txt_blam.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_blam.png",
                 "type": "image",
                 "key": "txt_blam"
             },
             {
-                "url": "assets/FX/Text/txt_boom.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_boom.png",
                 "type": "image",
                 "key": "txt_boom"
             },
             {
-                "url": "assets/FX/Text/txt_clunk.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_clunk.png",
                 "type": "image",
                 "key": "txt_clunk"
             },
             {
-                "url": "assets/FX/Text/txt_crack.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_crack.png",
                 "type": "image",
                 "key": "txt_crack"
             },
             {
-                "url": "assets/FX/Text/txt_crash.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_crash.png",
                 "type": "image",
                 "key": "txt_crash"
             },
             {
-                "url": "assets/FX/Text/txt_crit.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_crit.png",
                 "type": "image",
                 "key": "txt_crit"
             },
             {
-                "url": "assets/FX/Text/txt_critical.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_critical.png",
                 "type": "image",
                 "key": "txt_critical"
             },
             {
-                "url": "assets/FX/Text/txt_hit.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_hit.png",
                 "type": "image",
                 "key": "txt_hit"
             },
             {
-                "url": "assets/FX/Text/txt_ka-pow.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_ka-pow.png",
                 "type": "image",
                 "key": "txt_ka-pow"
             },
             {
-                "url": "assets/FX/Text/txt_kick.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_kick.png",
                 "type": "image",
                 "key": "txt_kick"
             },
             {
-                "url": "assets/FX/Text/txt_ko.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_ko.png",
                 "type": "image",
                 "key": "txt_ko"
             },
             {
-                "url": "assets/FX/Text/txt_miss.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_miss.png",
                 "type": "image",
                 "key": "txt_miss"
             },
             {
-                "url": "assets/FX/Text/txt_omg.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_omg.png",
                 "type": "image",
                 "key": "txt_omg"
             },
             {
-                "url": "assets/FX/Text/txt_poof.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_poof.png",
                 "type": "image",
                 "key": "txt_poof"
             },
             {
-                "url": "assets/FX/Text/txt_pop.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_pop.png",
                 "type": "image",
                 "key": "txt_pop"
             },
             {
-                "url": "assets/FX/Text/txt_pow.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_pow.png",
                 "type": "image",
                 "key": "txt_pow"
             },
             {
-                "url": "assets/FX/Text/txt_punch.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_punch.png",
                 "type": "image",
                 "key": "txt_punch"
             },
             {
-                "url": "assets/FX/Text/txt_smack.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_smack.png",
                 "type": "image",
                 "key": "txt_smack"
             },
             {
-                "url": "assets/FX/Text/txt_smooch.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_smooch.png",
                 "type": "image",
                 "key": "txt_smooch"
             },
             {
-                "url": "assets/FX/Text/txt_sparkle.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_sparkle.png",
                 "type": "image",
                 "key": "txt_sparkle"
             },
             {
-                "url": "assets/FX/Text/txt_splash.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_splash.png",
                 "type": "image",
                 "key": "txt_splash"
             },
             {
-                "url": "assets/FX/Text/txt_splat.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_splat.png",
                 "type": "image",
                 "key": "txt_splat"
             },
             {
-                "url": "assets/FX/Text/txt_whammm.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_whammm.png",
                 "type": "image",
                 "key": "txt_whammm"
             },
             {
-                "url": "assets/FX/Text/txt_wow.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_wow.png",
                 "type": "image",
                 "key": "txt_wow"
             },
             {
-                "url": "assets/FX/Text/txt_wtf.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_wtf.png",
                 "type": "image",
                 "key": "txt_wtf"
             },
             {
-                "url": "assets/FX/Text/txt_zzzap.png",
+                "url": "https://k4kh4-t.github.io/test/FX/Text/txt_zzzap.png",
                 "type": "image",
                 "key": "txt_zzzap"
             }
