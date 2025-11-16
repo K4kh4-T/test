@@ -1,0 +1,755 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/candle.png",
+                "frameConfig": {
+                    "frameWidth": 170,
+                    "frameHeight": 170,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "candle"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/candle_blurry.png",
+                "frameConfig": {
+                    "frameWidth": 170,
+                    "frameHeight": 170,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "candle_blurry"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/candle_soft.png",
+                "frameConfig": {
+                    "frameWidth": 170,
+                    "frameHeight": 170,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "candle_soft"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/candle_soft2.png",
+                "frameConfig": {
+                    "frameWidth": 170,
+                    "frameHeight": 170,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "candle_soft2"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/candle_soft3.png",
+                "frameConfig": {
+                    "frameWidth": 170,
+                    "frameHeight": 170,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "candle_soft3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/cardglow06.png",
+                "frameConfig": {
+                    "frameWidth": 1024,
+                    "frameHeight": 1024,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "cardglow06"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/cardglow07.png",
+                "frameConfig": {
+                    "frameWidth": 1024,
+                    "frameHeight": 1024,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "cardglow07"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/coins_outline.png",
+                "frameConfig": {
+                    "frameWidth": 128,
+                    "frameHeight": 128,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "coins_outline"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/explosion_round_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 341,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "explosion_round_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/explosion_round_outlined_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 341,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "explosion_round_outlined_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/explosion_round_softshadow_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 341,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "explosion_round_softshadow_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/explosion_round2_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 341,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "explosion_round2_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/explosion_round3_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 341,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "explosion_round3_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/explosion_sharp_flat_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 340,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "explosion_sharp_flat_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/explosion_sharp_soft_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 340,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "explosion_sharp_soft_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/fire_6x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 340,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "fire_6x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/fire_ground_soft3x3.png",
+                "frameConfig": {
+                    "frameWidth": 170,
+                    "frameHeight": 42,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 1
+                },
+                "type": "spritesheet",
+                "key": "fire_ground_soft3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/fire_ground_softer3x3.png",
+                "frameConfig": {
+                    "frameWidth": 170,
+                    "frameHeight": 42,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "fire_ground_softer3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/fire_ground3x3.png",
+                "frameConfig": {
+                    "frameWidth": 170,
+                    "frameHeight": 42,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "fire_ground3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/fire_soft.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "fire_soft"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/fire_soft_blank.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "fire_soft_blank"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/fire_soft_spiky.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "fire_soft_spiky"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/fire2_6x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 340,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "fire2_6x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/healing.png",
+                "frameConfig": {
+                    "frameWidth": 170,
+                    "frameHeight": 170,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "healing"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/leaf_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 170,
+                    "frameHeight": 170,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 1,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "leaf_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/lightning_spikes_3x1.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 170,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "lightning_spikes_3x1"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/lightning_v1_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "lightning_v1_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/lightning_v2_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "lightning_v2_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/lightning_v3_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "lightning_v3_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/nova_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 682,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "nova_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/nova_6x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 682,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "nova_6x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/nova_soft_6x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 682,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "nova_soft_6x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/portal_circular.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "portal_circular"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/portal_soft01.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "portal_soft01"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/portal_soft02.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "portal_soft02"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/portal_stripes_blue.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 32,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "portal_stripes_blue"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/portal_stripes_green.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "portal_stripes_green"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/portal_stripes_purple.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "portal_stripes_purple"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/portal_stripes_red.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "portal_stripes_red"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/portal_stripes_yellow.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "portal_stripes_yellow"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/slash_sharp.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "slash_sharp"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/slash_soft.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "slash_soft"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/splat00_flat_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "splat00_flat_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/splat00_trsp_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "splat00_trsp_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/splat01_flat_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "splat01_flat_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/splat01_shaded_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "splat01_shaded_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/splat01_trsp_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "splat01_trsp_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/splat02_flat_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 341,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "splat02_flat_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/splat02_shaded_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 341,
+                    "frameHeight": 32341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "splat02_shaded_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/splat02_trsp_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 341,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "splat02_trsp_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/splat03_flat_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 682,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "splat03_flat_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/splat03_shaded_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 682,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "splat03_shaded_3x3"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/splat03_trsp_4x4.png",
+                "frameConfig": {
+                    "frameWidth": 682,
+                    "frameHeight": 682,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "splat03_trsp_4x4"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/star_4x4.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "star_4x4"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/star_soft_4x4.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "star_soft_4x4"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/talkbubble.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "talkbubble"
+            },
+            {
+                "url": "assets/FX/Fx-Animated-Sprites/talkbubble_4x4.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "talkbubble_4x4"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}

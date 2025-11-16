@@ -1,0 +1,279 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/FX/Emojis/angry.png",
+                "type": "image",
+                "key": "angry"
+            },
+            {
+                "url": "assets/FX/Emojis/angryscream.png",
+                "type": "image",
+                "key": "angryscream"
+            },
+            {
+                "url": "assets/FX/Emojis/bigsmile.png",
+                "type": "image",
+                "key": "bigsmile"
+            },
+            {
+                "url": "assets/FX/Emojis/blush.png",
+                "type": "image",
+                "key": "blush"
+            },
+            {
+                "url": "assets/FX/Emojis/clenchteeth.png",
+                "type": "image",
+                "key": "clenchteeth"
+            },
+            {
+                "url": "assets/FX/Emojis/clenchteeth2.png",
+                "type": "image",
+                "key": "clenchteeth2"
+            },
+            {
+                "url": "assets/FX/Emojis/cool.png",
+                "type": "image",
+                "key": "cool"
+            },
+            {
+                "url": "assets/FX/Emojis/crazy.png",
+                "type": "image",
+                "key": "crazy"
+            },
+            {
+                "url": "assets/FX/Emojis/cry.png",
+                "type": "image",
+                "key": "cry"
+            },
+            {
+                "url": "assets/FX/Emojis/cute.png",
+                "type": "image",
+                "key": "cute"
+            },
+            {
+                "url": "assets/FX/Emojis/dead.png",
+                "type": "image",
+                "key": "dead"
+            },
+            {
+                "url": "assets/FX/Emojis/deadtired.png",
+                "type": "image",
+                "key": "deadtired"
+            },
+            {
+                "url": "assets/FX/Emojis/derp.png",
+                "type": "image",
+                "key": "derp"
+            },
+            {
+                "url": "assets/FX/Emojis/derpgasp.png",
+                "type": "image",
+                "key": "derpgasp"
+            },
+            {
+                "url": "assets/FX/Emojis/disappoint.png",
+                "type": "image",
+                "key": "disappoint"
+            },
+            {
+                "url": "assets/FX/Emojis/disappoint2.png",
+                "type": "image",
+                "key": "disappoint2"
+            },
+            {
+                "url": "assets/FX/Emojis/drool.png",
+                "type": "image",
+                "key": "drool"
+            },
+            {
+                "url": "assets/FX/Emojis/evil.png",
+                "type": "image",
+                "key": "evil"
+            },
+            {
+                "url": "assets/FX/Emojis/expressionless.png",
+                "type": "image",
+                "key": "expressionless"
+            },
+            {
+                "url": "assets/FX/Emojis/happy.png",
+                "type": "image",
+                "key": "happy"
+            },
+            {
+                "url": "assets/FX/Emojis/heart.png",
+                "type": "image",
+                "key": "heart"
+            },
+            {
+                "url": "assets/FX/Emojis/injured.png",
+                "type": "image",
+                "key": "injured"
+            },
+            {
+                "url": "assets/FX/Emojis/kiss.png",
+                "type": "image",
+                "key": "kiss"
+            },
+            {
+                "url": "assets/FX/Emojis/kissyface.png",
+                "type": "image",
+                "key": "kissyface"
+            },
+            {
+                "url": "assets/FX/Emojis/laugh.png",
+                "type": "image",
+                "key": "laugh"
+            },
+            {
+                "url": "assets/FX/Emojis/laughcry.png",
+                "type": "image",
+                "key": "laughcry"
+            },
+            {
+                "url": "assets/FX/Emojis/laughsweatdrop.png",
+                "type": "image",
+                "key": "laughsweatdrop"
+            },
+            {
+                "url": "assets/FX/Emojis/mad.png",
+                "type": "image",
+                "key": "mad"
+            },
+            {
+                "url": "assets/FX/Emojis/nauseous.png",
+                "type": "image",
+                "key": "nauseous"
+            },
+            {
+                "url": "assets/FX/Emojis/OwO.png",
+                "type": "image",
+                "key": "OwO"
+            },
+            {
+                "url": "assets/FX/Emojis/OwOEyebrow.png",
+                "type": "image",
+                "key": "OwOEyebrow"
+            },
+            {
+                "url": "assets/FX/Emojis/pleading.png",
+                "type": "image",
+                "key": "pleading"
+            },
+            {
+                "url": "assets/FX/Emojis/poop.png",
+                "type": "image",
+                "key": "poop"
+            },
+            {
+                "url": "assets/FX/Emojis/sad.png",
+                "type": "image",
+                "key": "sad"
+            },
+            {
+                "url": "assets/FX/Emojis/sadcry.png",
+                "type": "image",
+                "key": "sadcry"
+            },
+            {
+                "url": "assets/FX/Emojis/scared.png",
+                "type": "image",
+                "key": "scared"
+            },
+            {
+                "url": "assets/FX/Emojis/shocked.png",
+                "type": "image",
+                "key": "shocked"
+            },
+            {
+                "url": "assets/FX/Emojis/sick.png",
+                "type": "image",
+                "key": "sick"
+            },
+            {
+                "url": "assets/FX/Emojis/sick2.png",
+                "type": "image",
+                "key": "sick2"
+            },
+            {
+                "url": "assets/FX/Emojis/sick3.png",
+                "type": "image",
+                "key": "sick3"
+            },
+            {
+                "url": "assets/FX/Emojis/silly.png",
+                "type": "image",
+                "key": "silly"
+            },
+            {
+                "url": "assets/FX/Emojis/sillyhappy.png",
+                "type": "image",
+                "key": "sillyhappy"
+            },
+            {
+                "url": "assets/FX/Emojis/sillysmile.png",
+                "type": "image",
+                "key": "sillysmile"
+            },
+            {
+                "url": "assets/FX/Emojis/sillywink.png",
+                "type": "image",
+                "key": "sillywink"
+            },
+            {
+                "url": "assets/FX/Emojis/sinister.png",
+                "type": "image",
+                "key": "sinister"
+            },
+            {
+                "url": "assets/FX/Emojis/sleep.png",
+                "type": "image",
+                "key": "sleep"
+            },
+            {
+                "url": "assets/FX/Emojis/starstruck.png",
+                "type": "image",
+                "key": "starstruck"
+            },
+            {
+                "url": "assets/FX/Emojis/tearyeyes.png",
+                "type": "image",
+                "key": "tearyeyes"
+            },
+            {
+                "url": "assets/FX/Emojis/thumbsdown.png",
+                "type": "image",
+                "key": "thumbsdown"
+            },
+            {
+                "url": "assets/FX/Emojis/thumbsup.png",
+                "type": "image",
+                "key": "thumbsup"
+            },
+            {
+                "url": "assets/FX/Emojis/UwU.png",
+                "type": "image",
+                "key": "UwU"
+            },
+            {
+                "url": "assets/FX/Emojis/XD.png",
+                "type": "image",
+                "key": "XD"
+            },
+            {
+                "url": "assets/FX/Emojis/yawn.png",
+                "type": "image",
+                "key": "yawn"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}

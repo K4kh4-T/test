@@ -1,0 +1,174 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/FX/Text/sharp_blue.png",
+                "type": "image",
+                "key": "sharp_blue"
+            },
+            {
+                "url": "assets/FX/Text/sharp_green.png",
+                "type": "image",
+                "key": "sharp_green"
+            },
+            {
+                "url": "assets/FX/Text/sharp_red.png",
+                "type": "image",
+                "key": "sharp_red"
+            },
+            {
+                "url": "assets/FX/Text/sharp_white.png",
+                "type": "image",
+                "key": "sharp_white"
+            },
+            {
+                "url": "assets/FX/Text/sharp_yellow.png",
+                "type": "image",
+                "key": "sharp_yellow"
+            },
+            {
+                "url": "assets/FX/Text/txt_bang.png",
+                "type": "image",
+                "key": "txt_bang"
+            },
+            {
+                "url": "assets/FX/Text/txt_blam.png",
+                "type": "image",
+                "key": "txt_blam"
+            },
+            {
+                "url": "assets/FX/Text/txt_boom.png",
+                "type": "image",
+                "key": "txt_boom"
+            },
+            {
+                "url": "assets/FX/Text/txt_clunk.png",
+                "type": "image",
+                "key": "txt_clunk"
+            },
+            {
+                "url": "assets/FX/Text/txt_crack.png",
+                "type": "image",
+                "key": "txt_crack"
+            },
+            {
+                "url": "assets/FX/Text/txt_crash.png",
+                "type": "image",
+                "key": "txt_crash"
+            },
+            {
+                "url": "assets/FX/Text/txt_crit.png",
+                "type": "image",
+                "key": "txt_crit"
+            },
+            {
+                "url": "assets/FX/Text/txt_critical.png",
+                "type": "image",
+                "key": "txt_critical"
+            },
+            {
+                "url": "assets/FX/Text/txt_hit.png",
+                "type": "image",
+                "key": "txt_hit"
+            },
+            {
+                "url": "assets/FX/Text/txt_ka-pow.png",
+                "type": "image",
+                "key": "txt_ka-pow"
+            },
+            {
+                "url": "assets/FX/Text/txt_kick.png",
+                "type": "image",
+                "key": "txt_kick"
+            },
+            {
+                "url": "assets/FX/Text/txt_ko.png",
+                "type": "image",
+                "key": "txt_ko"
+            },
+            {
+                "url": "assets/FX/Text/txt_miss.png",
+                "type": "image",
+                "key": "txt_miss"
+            },
+            {
+                "url": "assets/FX/Text/txt_omg.png",
+                "type": "image",
+                "key": "txt_omg"
+            },
+            {
+                "url": "assets/FX/Text/txt_poof.png",
+                "type": "image",
+                "key": "txt_poof"
+            },
+            {
+                "url": "assets/FX/Text/txt_pop.png",
+                "type": "image",
+                "key": "txt_pop"
+            },
+            {
+                "url": "assets/FX/Text/txt_pow.png",
+                "type": "image",
+                "key": "txt_pow"
+            },
+            {
+                "url": "assets/FX/Text/txt_punch.png",
+                "type": "image",
+                "key": "txt_punch"
+            },
+            {
+                "url": "assets/FX/Text/txt_smack.png",
+                "type": "image",
+                "key": "txt_smack"
+            },
+            {
+                "url": "assets/FX/Text/txt_smooch.png",
+                "type": "image",
+                "key": "txt_smooch"
+            },
+            {
+                "url": "assets/FX/Text/txt_sparkle.png",
+                "type": "image",
+                "key": "txt_sparkle"
+            },
+            {
+                "url": "assets/FX/Text/txt_splash.png",
+                "type": "image",
+                "key": "txt_splash"
+            },
+            {
+                "url": "assets/FX/Text/txt_splat.png",
+                "type": "image",
+                "key": "txt_splat"
+            },
+            {
+                "url": "assets/FX/Text/txt_whammm.png",
+                "type": "image",
+                "key": "txt_whammm"
+            },
+            {
+                "url": "assets/FX/Text/txt_wow.png",
+                "type": "image",
+                "key": "txt_wow"
+            },
+            {
+                "url": "assets/FX/Text/txt_wtf.png",
+                "type": "image",
+                "key": "txt_wtf"
+            },
+            {
+                "url": "assets/FX/Text/txt_zzzap.png",
+                "type": "image",
+                "key": "txt_zzzap"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}

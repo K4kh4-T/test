@@ -1,0 +1,378 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/FX/Fx_SpriteSheets/cloud_2x2_hard.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "cloud_2x2_hard"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/cloud_2x2_hard_softshadow.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "cloud_2x2_hard_softshadow"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/cloud_2x2_hardshadow.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "cloud_2x2_hardshadow"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/cloud_2x2_outlined.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "cloud_2x2_outlined"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/cloud_2x2_soft.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "cloud_2x2_soft"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/cloud_2x2_soft_translucent.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "cloud_2x2_soft_translucent"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/cloud_2x2_soft2.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "cloud_2x2_soft2"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/clouds_magic_2x2.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "clouds_magic_2x2"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/clouds_magic_ss_2x2.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "clouds_magic_ss_2x2"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/confetti.png",
+                "frameConfig": {
+                    "frameWidth": 170,
+                    "frameHeight": 170,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "confetti"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/confetti_outlined.png",
+                "frameConfig": {
+                    "frameWidth": 170,
+                    "frameHeight": 170,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "confetti_outlined"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/decal_atlas.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "decal_atlas"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/decal_gibs.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "decal_gibs"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/feather.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 128,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "feather"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/feather_outlined.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 128,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "feather_outlined"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/ice_spikes.png",
+                "frameConfig": {
+                    "frameWidth": 128,
+                    "frameHeight": 128,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "ice_spikes"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/moneybills.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "moneybills"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/moneybillsv2.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "moneybillsv2"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/muzzleflash01.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "muzzleflash01"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/notes.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "notes"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/notes2.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "notes2"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/numbers.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 32,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "numbers"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/snow_2x2.png",
+                "frameConfig": {
+                    "frameWidth": 512,
+                    "frameHeight": 512,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "snow_2x2"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/text_ah_zz.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "text_ah_zz"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/text_haha.png",
+                "frameConfig": {
+                    "frameWidth": 256,
+                    "frameHeight": 256,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "text_haha"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/water_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 341,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "water_3x3"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/water_soft_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 341,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "water_soft_3x3"
+            },
+            {
+                "url": "assets/FX/Fx_SpriteSheets/water_trsp_3x3.png",
+                "frameConfig": {
+                    "frameWidth": 341,
+                    "frameHeight": 341,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "water_trsp_3x3"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}

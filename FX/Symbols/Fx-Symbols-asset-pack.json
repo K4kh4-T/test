@@ -1,0 +1,89 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/FX/Symbols/sym_bolt.png",
+                "type": "image",
+                "key": "sym_bolt"
+            },
+            {
+                "url": "assets/FX/Symbols/sym_bullet.png",
+                "type": "image",
+                "key": "sym_bullet"
+            },
+            {
+                "url": "assets/FX/Symbols/sym_exclamation.png",
+                "type": "image",
+                "key": "sym_exclamation"
+            },
+            {
+                "url": "assets/FX/Symbols/sym_health.png",
+                "type": "image",
+                "key": "sym_health"
+            },
+            {
+                "url": "assets/FX/Symbols/sym_heart.png",
+                "type": "image",
+                "key": "sym_heart"
+            },
+            {
+                "url": "assets/FX/Symbols/sym_magnet.png",
+                "type": "image",
+                "key": "sym_magnet"
+            },
+            {
+                "url": "assets/FX/Symbols/sym_question.png",
+                "type": "image",
+                "key": "sym_question"
+            },
+            {
+                "url": "assets/FX/Symbols/sym_shield.png",
+                "type": "image",
+                "key": "sym_shield"
+            },
+            {
+                "url": "assets/FX/Symbols/sym_skull.png",
+                "type": "image",
+                "key": "sym_skull"
+            },
+            {
+                "url": "assets/FX/Symbols/sym_speed.png",
+                "type": "image",
+                "key": "sym_speed"
+            },
+            {
+                "url": "assets/FX/Symbols/sym_star.png",
+                "type": "image",
+                "key": "sym_star"
+            },
+            {
+                "url": "assets/FX/Symbols/warn_bolt.png",
+                "type": "image",
+                "key": "warn_bolt"
+            },
+            {
+                "url": "assets/FX/Symbols/warn_exclamation.png",
+                "type": "image",
+                "key": "warn_exclamation"
+            },
+            {
+                "url": "assets/FX/Symbols/warn_explosive.png",
+                "type": "image",
+                "key": "warn_explosive"
+            },
+            {
+                "url": "assets/FX/Symbols/warn_skull.png",
+                "type": "image",
+                "key": "warn_skull"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}
